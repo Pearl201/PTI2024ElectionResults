@@ -2,6 +2,12 @@
 
 Welcome to the PTI Election Candidates Live Search repository! This repository hosts an HTML live application that allows users to search for PTI candidates in the 2024 General Elections in Pakistan. The application is designed to help users quickly find their constituency candidates by searching with City, Constituency, Symbol, or Candidate name.
 
+## Access the Application
+
+You can access the application by [clicking here](https://charlottehflint.github.io/LiveSearch2024/) or by scanning the QR code below:
+
+![Access the Application]([path/to/your/qrcode.png](https://charlottehflint.github.io/LiveSearch2024/img/qrcode.png))
+
 ## Usage
 
 To use the live search functionality, simply type the City, Constituency, Symbol, or Candidate name in the provided search box. The application will dynamically display relevant results, making it easy for users to access the information they need.
