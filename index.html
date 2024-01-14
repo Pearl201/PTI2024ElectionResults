@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PTI Election Candidates Live Search</title>
+    <meta charset="utf-8"/>
+    <meta name="author" name="Charlotte H Flint"/>
+    <!--
+        Email : CharlotteHFlint@proton.me
+        Twitter : @CharlotteHFlint
+    -->
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<style type="text/css">
+		table{
+			width: 100%;
+		}
+	</style>
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/draw_table.js"></script>
+</head>
+<body>
+	<!-- A grey horizontal navbar that becomes vertical on small screens -->
+<nav class="navbar navbar-expand-sm bg-light">
+
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 2</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 3</a>
+    </li>
+	   <a class="navbar-brand" href="#">
+      <img src="https://charlottehflint.github.io/LiveSearch2024/img/ptilogo.png" alt="..." height="36">
+    </a>
+  </ul>
+
+</nav>
+		<div class="container">
+	<div class="jumbotron">
+        <h1 class="display-4">PTI Election Candidates Live Search!</h2>
+        <p class="lead">This is a HTML live application to search PTI candidates in 2024 General Elections in Pakistan, developed by Charlotte H Flint.</p>
+        <div class="container text-center">
+  <img src="https://charlottehflint.github.io/LiveSearch2024/img/ptilogo.png" class="img-fluid" alt="Centered Image">
+</div>
+		<hr class="my-4">
+        <p>You can quickly find your constituency candidate by typing City, Constituency, Symbol or Candidate name in the box given below.</p>
+        <p>Contact person: Charlotte H Flint</p>
+        <p>Email: <a href="mailto:CharlotteHFlint@proton.me">CharlotteHFlint@proton.me</a></p>
+        <p>Twitter: <a href="https://twitter.com/CharlotteHFlint">@CharlottePTI</a></p>
+    </div> 
+</div>
+        <center>
+            <div class="form-group">
+                <input type="text" class="form-control" style="width: 20%" id="js-search" placeholder="Type City, Constituency, Symbol or Candidate name…">
+            </div>
+        </center>
+		
+		<table class="table js-table">
+			<thead class="js-thead"></thead>
+			<tbody></tbody>
+		</table>
+	</div>
+	<script type="text/javascript" src="js/search.js"></script>
+</body>
+</html>
