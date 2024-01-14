@@ -6,7 +6,7 @@ Welcome to the PTI Election Candidates Live Search repository! This repository h
 
 You can access the application by [clicking here](https://charlottehflint.github.io/LiveSearch2024/) or by scanning the QR code below:
 
-![Access the Application](https://charlottehflint.github.io/LiveSearch2024/img/qrcode.png)
+<img src="https://github.com/CharlotteHFlint/LiveSearch2024/blob/main/img/qrcode.png" alt="Access the Application QR Code" width="200"/>
 
 ## Usage
 
