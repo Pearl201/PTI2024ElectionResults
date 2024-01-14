@@ -1,0 +1,6033 @@
+[
+ {
+  "SerialNo": 1,
+  "Constituency": "NA-1",
+  "Name": "Chitral",
+  "Candidate": "Abdul Latif",
+  "Symbol": "Bottle"
+ },
+ {
+  "SerialNo": 2,
+  "Constituency": "NA-2",
+  "Name": "Swat-I",
+  "Candidate": "Dr. Amjad Ali Khan",
+  "Symbol": "Kettle"
+ },
+ {
+  "SerialNo": 3,
+  "Constituency": "NA-3",
+  "Name": "Swat-II",
+  "Candidate": "Saleem ur Rehman",
+  "Symbol": "Tongs"
+ },
+ {
+  "SerialNo": 4,
+  "Constituency": "NA-4",
+  "Name": "Swat-III",
+  "Candidate": "Sohail Sultan",
+  "Symbol": "Goat"
+ },
+ {
+  "SerialNo": 5,
+  "Constituency": "NA-5",
+  "Name": "Upper Dir",
+  "Candidate": "Sibghatullah",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 6,
+  "Constituency": "NA-6",
+  "Name": "Lower Dir-I",
+  "Candidate": "Syed Mehboob Shah",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 7,
+  "Constituency": "NA-7",
+  "Name": "Lower Dir-II",
+  "Candidate": "Muhammad Bashir Khan",
+  "Symbol": "Wicket"
+ },
+ {
+  "SerialNo": 8,
+  "Constituency": "NA-8",
+  "Name": "Bajaur",
+  "Candidate": "Gul Zafar Khan",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 9,
+  "Constituency": "NA-9",
+  "Name": "Malakand",
+  "Candidate": "Junaid Akbar",
+  "Symbol": "Racket"
+ },
+ {
+  "SerialNo": 10,
+  "Constituency": "NA-10",
+  "Name": "Buner",
+  "Candidate": "Barrister Gohar Ali Khan",
+  "Symbol": "Kettle"
+ },
+ {
+  "SerialNo": 11,
+  "Constituency": "NA-11",
+  "Name": "Shangla",
+  "Candidate": "Said Fareen Khan",
+  "Symbol": "Aeroplane"
+ },
+ {
+  "SerialNo": 12,
+  "Constituency": "NA-12",
+  "Name": "Kohistan",
+  "Candidate": "Taj Muhammad",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 13,
+  "Constituency": "NA-13",
+  "Name": "Battagram",
+  "Candidate": "Prince Nawaz Khan",
+  "Symbol": "Sheep"
+ },
+ {
+  "SerialNo": 14,
+  "Constituency": "NA-14",
+  "Name": "Mansehra - I",
+  "Candidate": "Saleem Imran Swati",
+  "Symbol": "Brick"
+ },
+ {
+  "SerialNo": 15,
+  "Constituency": "NA-15",
+  "Name": "Maneshra – II",
+  "Candidate": "Shahzada Gustasap Khan",
+  "Symbol": "Sickle"
+ },
+ {
+  "SerialNo": 16,
+  "Constituency": "NA-16",
+  "Name": "Abbottabad-I",
+  "Candidate": "Ali Asghar Khan",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 17,
+  "Constituency": "NA-17",
+  "Name": "Abbottabad-II",
+  "Candidate": "Ali Khan Jadoon",
+  "Symbol": "Goat"
+ },
+ {
+  "SerialNo": 18,
+  "Constituency": "NA-18",
+  "Name": "Haripur",
+  "Candidate": "Omar Ayub Khan",
+  "Symbol": "Laptop"
+ },
+ {
+  "SerialNo": 19,
+  "Constituency": "NA-19",
+  "Name": "Swabi-I",
+  "Candidate": "Asad Qaiser",
+  "Symbol": "Wheelchair"
+ },
+ {
+  "SerialNo": 20,
+  "Constituency": "NA-20",
+  "Name": "Swabi-ll",
+  "Candidate": "Shahram Tarakai",
+  "Symbol": "Dove"
+ },
+ {
+  "SerialNo": 21,
+  "Constituency": "NA-21",
+  "Name": "Mardan-l",
+  "Candidate": "Mujahid Khan",
+  "Symbol": "Dove"
+ },
+ {
+  "SerialNo": 22,
+  "Constituency": "NA-22",
+  "Name": "Mardan-ll",
+  "Candidate": "Muhammad Atif Khan",
+  "Symbol": "Sickle"
+ },
+ {
+  "SerialNo": 23,
+  "Constituency": "NA-23",
+  "Name": "Mardan-lll",
+  "Candidate": "Ali Muhammad Khan",
+  "Symbol": "Dolphin"
+ },
+ {
+  "SerialNo": 24,
+  "Constituency": "NA-24",
+  "Name": "Charsadda-l",
+  "Candidate": "Anwar Taj",
+  "Symbol": "Teapot"
+ },
+ {
+  "SerialNo": 25,
+  "Constituency": "NA-25",
+  "Name": "Charsadda-ll",
+  "Candidate": "Fazal Muhammad Khan",
+  "Symbol": "Pomegrenate"
+ },
+ {
+  "SerialNo": 26,
+  "Constituency": "NA-26",
+  "Name": "Mohmand",
+  "Candidate": "Sajid Khan",
+  "Symbol": "Aeroplane"
+ },
+ {
+  "SerialNo": 27,
+  "Constituency": "NA-27",
+  "Name": "Khyber",
+  "Candidate": "Iqbal Afridi",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 28,
+  "Constituency": "NA-28",
+  "Name": "Peshawar-l",
+  "Candidate": "Sajid Nawaz Khan",
+  "Symbol": "Key Chain"
+ },
+ {
+  "SerialNo": 29,
+  "Constituency": "NA-29",
+  "Name": "Peshawar-ll",
+  "Candidate": "Arbab Amir Ayub",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 30,
+  "Constituency": "NA-30",
+  "Name": "Peshawar-lll",
+  "Candidate": "Shandana Gulzar",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 31,
+  "Constituency": "NA-31",
+  "Name": "Peshawar-lV",
+  "Candidate": "Arbab Sher Ali",
+  "Symbol": "Traffic Signal"
+ },
+ {
+  "SerialNo": 32,
+  "Constituency": "NA-32",
+  "Name": "Peshawar-V",
+  "Candidate": "Asif Khan",
+  "Symbol": "Wheel Barrow"
+ },
+ {
+  "SerialNo": 33,
+  "Constituency": "NA-33",
+  "Name": "Nowshera-l",
+  "Candidate": "Shah Ahad Ali Shah",
+  "Symbol": "Printer"
+ },
+ {
+  "SerialNo": 34,
+  "Constituency": "NA-34",
+  "Name": "Nowshera-ll",
+  "Candidate": "Zulfiqar Khan",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 35,
+  "Constituency": "NA-35",
+  "Name": "Kohat",
+  "Candidate": "Shehryar Afridi",
+  "Symbol": "Bottle"
+ },
+ {
+  "SerialNo": 36,
+  "Constituency": "NA-36",
+  "Name": "Hangu\/Orakzai",
+  "Candidate": "Haji Yousif Khan",
+  "Symbol": "Bee"
+ },
+ {
+  "SerialNo": 37,
+  "Constituency": "NA-37",
+  "Name": "Kurram",
+  "Candidate": "Luqman Khan",
+  "Symbol": "Wicket"
+ },
+ {
+  "SerialNo": 38,
+  "Constituency": "NA-38",
+  "Name": "Karak",
+  "Candidate": "Shahid Ahmad Khattak",
+  "Symbol": "Saxophone"
+ },
+ {
+  "SerialNo": 39,
+  "Constituency": "NA-39",
+  "Name": "Bannu",
+  "Candidate": "Maulana Naseem Shah",
+  "Symbol": "Dove"
+ },
+ {
+  "SerialNo": 40,
+  "Constituency": "NA-40",
+  "Name": "North Waziristan",
+  "Candidate": "Malik Aurangzeb Khan",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 41,
+  "Constituency": "NA-41",
+  "Name": "Lakki Marwat",
+  "Candidate": "Sher Afzal Marwat",
+  "Symbol": "Flamingo"
+ },
+ {
+  "SerialNo": 42,
+  "Constituency": "NA-42",
+  "Name": "South Waziristan",
+  "Candidate": "Zubair Khan Wazir",
+  "Symbol": "Computer"
+ },
+ {
+  "SerialNo": 43,
+  "Constituency": "NA-43",
+  "Name": "Tank\/Dera Ismail Khan",
+  "Candidate": "Dawar Khan Kundi",
+  "Symbol": "Wheelchair"
+ },
+ {
+  "SerialNo": 44,
+  "Constituency": "NA-44",
+  "Name": "Dera Ismail Khan-l",
+  "Candidate": "Ali Amin Gandapur",
+  "Symbol": "Queen"
+ },
+ {
+  "SerialNo": 45,
+  "Constituency": "NA-45",
+  "Name": "Dera Ismail Khan-ll",
+  "Candidate": "Shoaib Khan Miankhel",
+  "Symbol": "Queen"
+ },
+ {
+  "SerialNo": 46,
+  "Constituency": "NA-46",
+  "Name": "ICT-l",
+  "Candidate": "Aamir Masood Mughal",
+  "Symbol": "Brinjal"
+ },
+ {
+  "SerialNo": 47,
+  "Constituency": "NA-47",
+  "Name": "ICT-ll",
+  "Candidate": "Advocate Shoaib Shaheen",
+  "Symbol": "Dove"
+ },
+ {
+  "SerialNo": 48,
+  "Constituency": "NA-48",
+  "Name": "ICT-lll",
+  "Candidate": "Ali Bukhari",
+  "Symbol": "Parachute"
+ },
+ {
+  "SerialNo": 49,
+  "Constituency": "NA-49",
+  "Name": "Attock-l",
+  "Candidate": "Tahir Sadiq",
+  "Symbol": "Sheep"
+ },
+ {
+  "SerialNo": 50,
+  "Constituency": "NA-50",
+  "Name": "Attock-ll",
+  "Candidate": "Eman Tahir",
+  "Symbol": "Water Turbine"
+ },
+ {
+  "SerialNo": 51,
+  "Constituency": "NA-51",
+  "Name": "Murree",
+  "Candidate": "Maj. Latasab Satti",
+  "Symbol": "Violin"
+ },
+ {
+  "SerialNo": 52,
+  "Constituency": "NA-52",
+  "Name": "Rawalpindi-l",
+  "Candidate": "Tariq Aziz Bhatti Advocate",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 53,
+  "Constituency": "NA-53",
+  "Name": "Rawalpindi-ll",
+  "Candidate": "Col. Ajmal Sabir",
+  "Symbol": "Charpai"
+ },
+ {
+  "SerialNo": 54,
+  "Constituency": "NA-54",
+  "Name": "Rawalpindi-lll",
+  "Candidate": "Malik Taimoor Masood",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 55,
+  "Constituency": "NA-55",
+  "Name": "Rawalpindi-lV",
+  "Candidate": "Muhammad Basharat Raja",
+  "Symbol": "Kettle"
+ },
+ {
+  "SerialNo": 56,
+  "Constituency": "NA-56",
+  "Name": "Rawalpindi-V",
+  "Candidate": "Shahriyar Riaz",
+  "Symbol": "Minar/Tower"
+ },
+ {
+  "SerialNo": 57,
+  "Constituency": "NA-57",
+  "Name": "Rawalpindi-Vl",
+  "Candidate": "Seemabia Tahir",
+  "Symbol": "Queen"
+ },
+ {
+  "SerialNo": 58,
+  "Constituency": "NA-58",
+  "Name": "Chakwal",
+  "Candidate": "Ayaz Amir",
+  "Symbol": "Saxophone"
+ },
+ {
+  "SerialNo": 59,
+  "Constituency": "NA-59",
+  "Name": "Talagang cum Chakwal",
+  "Candidate": "Muhammad Ruman Ahmad",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 60,
+  "Constituency": "NA-60",
+  "Name": "Jhelum-l",
+  "Candidate": "Hassan Adeel Advocate",
+  "Symbol": "Wicket"
+ },
+ {
+  "SerialNo": 61,
+  "Constituency": "NA-61",
+  "Name": "Jhelum-ll",
+  "Candidate": "Ghulam Mustafa Kandwal",
+  "Symbol": "Dolphin"
+ },
+ {
+  "SerialNo": 62,
+  "Constituency": "NA-62",
+  "Name": "Gujrat-l",
+  "Candidate": "Chaudhary Ilyas",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 63,
+  "Constituency": "NA-63",
+  "Name": "Gujrat-ll",
+  "Candidate": "Sajid Yousaf",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 64,
+  "Constituency": "NA-64",
+  "Name": "Gujrat-lll",
+  "Candidate": "Rehana Abbas",
+  "Symbol": "Aeroplane"
+ },
+ {
+  "SerialNo": 65,
+  "Constituency": "NA-65",
+  "Name": "Gujrat-lV",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 66,
+  "Constituency": "NA-66",
+  "Name": "Wazirabad",
+  "Candidate": "Muhammad Ahmed Chattha",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 67,
+  "Constituency": "NA-67",
+  "Name": "Hafizabad",
+  "Candidate": "Shaukat Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 68,
+  "Constituency": "NA-68",
+  "Name": "M.B.Din-l",
+  "Candidate": "Haji Imtiaz Ahmed",
+  "Symbol": "Aeroplane"
+ },
+ {
+  "SerialNo": 69,
+  "Constituency": "NA-69",
+  "Name": "M.B.Din-ll",
+  "Candidate": "Kousar Muhammad Khan Bhatti",
+  "Symbol": "Bowl"
+ },
+ {
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 70,
+  "Constituency": "NA-70",
+  "Name": "Sialkot-l",
+  "Candidate": "Mubashar Awan Advocate",
+  "Symbol": "Shower"
+ },
+ {
+  "SerialNo": 71,
+  "Constituency": "NA-71",
+  "Name": "Sialkot-ll",
+  "Candidate": "Rehana Imtiaz Dar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 72,
+  "Constituency": "NA-72",
+  "Name": "Sialkot-lll",
+  "Candidate": "Amjad Ali Bajwa",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 73,
+  "Constituency": "NA-73",
+  "Name": "Sialkot-IV",
+  "Candidate": "Ali Asjid Malhi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 74,
+  "Constituency": "NA-74",
+  "Name": "Sialkot-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 75,
+  "Constituency": "NA-75",
+  "Name": "Narowal-l",
+  "Candidate": "Dr. Tahir Ali Javed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 76,
+  "Constituency": "NA-76",
+  "Name": "Narowal-ll",
+  "Candidate": "Col. Javed Kholoon",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 77,
+  "Constituency": "NA-77",
+  "Name": "Gujranwala-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 78,
+  "Constituency": "NA-78",
+  "Name": "Gujranwala-ll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 79,
+  "Constituency": "NA-79",
+  "Name": "Gujranwala-lll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 80,
+  "Constituency": "NA-80",
+  "Name": "Gujranwala-lV",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 81,
+  "Constituency": "NA-81",
+  "Name": "Gujranwala-V",
+  "Candidate": "Bilal Ejaz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 82,
+  "Constituency": "NA-82",
+  "Name": "Sargodha-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 83,
+  "Constituency": "NA-83",
+  "Name": "Sargodha-ll",
+  "Candidate": "Osama Maila",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 84,
+  "Constituency": "NA-84",
+  "Name": "Sargodha-lll",
+  "Candidate": "Shafqat Awan Advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 85,
+  "Constituency": "NA-85",
+  "Name": "Sargodha-lV",
+  "Candidate": "Khudada Kalyar advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 86,
+  "Constituency": "NA-86",
+  "Name": "Sargodha-V",
+  "Candidate": "Miandad Shafqat Baloch",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 87,
+  "Constituency": "NA-87",
+  "Name": "Khushab-l",
+  "Candidate": "Malik Omar Aslam",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 88,
+  "Constituency": "NA-88",
+  "Name": "Khushab-ll",
+  "Candidate": "Akram Niazi Advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 89,
+  "Constituency": "NA-89",
+  "Name": "Mianwali-l",
+  "Candidate": "Jamal Ahsan Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 90,
+  "Constituency": "NA-90",
+  "Name": "Mianwali-ll",
+  "Candidate": "Umair Khan Niazi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 91,
+  "Constituency": "NA-91",
+  "Name": "Bhakkar-l",
+  "Candidate": "Sanaullah Mastikhel",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 92,
+  "Constituency": "NA-92",
+  "Name": "Bhakkar-ll",
+  "Candidate": "Ali Abbas Bukhari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 93,
+  "Constituency": "NA-93",
+  "Name": "Chiniot-l",
+  "Candidate": "Ghulam Muhammad Lalli",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 94,
+  "Constituency": "NA-94",
+  "Name": "Chiniot-ll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 95,
+  "Constituency": "NA-95",
+  "Name": "Faisalabad-l",
+  "Candidate": "Ali Afzal Sahi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 96,
+  "Constituency": "NA-96",
+  "Name": "Faisalabad-ll",
+  "Candidate": "Rai Haider Kharal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 97,
+  "Constituency": "NA-97",
+  "Name": "Faisalabad-lll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 98,
+  "Constituency": "NA-98",
+  "Name": "Faisalabad-lV",
+  "Candidate": "Iftikhar Rasool Ghumman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 99,
+  "Constituency": "NA-99",
+  "Name": "Faisalabad-V",
+  "Candidate": "Malik Umar Farooq",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 100,
+  "Constituency": "NA-100",
+  "Name": "Faisalabad-Vl",
+  "Candidate": "Dr. Nisar Jutt",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 101,
+  "Constituency": "NA-101",
+  "Name": "Faisalabad-Vll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 102,
+  "Constituency": "NA-102",
+  "Name": "Faisalabad-Vlll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 103,
+  "Constituency": "NA-103",
+  "Name": "Faisalabad-lX",
+  "Candidate": "Ali Sarfaraz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 104,
+  "Constituency": "NA-104",
+  "Name": "Faisalabad-X",
+  "Candidate": "Sahibzada Hamid Raza",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 105,
+  "Constituency": "NA-105",
+  "Name": "T.T.Singh-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 106,
+  "Constituency": "NA-106",
+  "Name": "T.T.Singh-ll",
+  "Candidate": "Khalid Nawaz Sudharich",
+  "Symbol": "Unknown"
+ },
+ {
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 107,
+  "Constituency": "NA-107",
+  "Name": "T.T.Singh-lll",
+  "Candidate": "Riyaz Fatyana",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 108,
+  "Constituency": "NA-108",
+  "Name": "Jhang-l",
+  "Candidate": "Sahibzada Mehboob Sultan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 109,
+  "Constituency": "NA-109",
+  "Name": "Jhang-ll",
+  "Candidate": "Sheikh Waqas Akram",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 110,
+  "Constituency": "NA-110",
+  "Name": "Jhang-lll",
+  "Candidate": "Sahibzada Ahmed Sultan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 111,
+  "Constituency": "NA-111",
+  "Name": "Nankana Sahib-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 112,
+  "Constituency": "NA-112",
+  "Name": "Nankana Sahib-ll",
+  "Candidate": "Brig Ejaz Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 113,
+  "Constituency": "NA-113",
+  "Name": "Sheikhupura-l",
+  "Candidate": "Brig Rahat Amanullah Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 114,
+  "Constituency": "NA-114",
+  "Name": "Sheikhupura-ll",
+  "Candidate": "Ali Asghar Manda",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 115,
+  "Constituency": "NA-115",
+  "Name": "Sheikhupura-lll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 116,
+  "Constituency": "NA-116",
+  "Name": "Sheikhupura-lV",
+  "Candidate": "Khurram Munj",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 117,
+  "Constituency": "NA-117",
+  "Name": "Lahore-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 118,
+  "Constituency": "NA-118",
+  "Name": "Lahore-ll",
+  "Candidate": "Aliya Hamza",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 119,
+  "Constituency": "NA-119",
+  "Name": "Lahore-lll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 120,
+  "Constituency": "NA-120",
+  "Name": "Lahore-lV",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 121,
+  "Constituency": "NA-121",
+  "Name": "Lahore-V",
+  "Candidate": "Wasim Qadir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 122,
+  "Constituency": "NA-122",
+  "Name": "Lahore-Vl",
+  "Candidate": "Latif Khosa",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 123,
+  "Constituency": "NA-123",
+  "Name": "Lahore-Vll",
+  "Candidate": "Afzaal Azeem Pahat Advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 124,
+  "Constituency": "NA-124",
+  "Name": "Lahore-Vlll",
+  "Candidate": "Zameer Jedhu Advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 125,
+  "Constituency": "NA-125",
+  "Name": "Lahore-IX",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 126,
+  "Constituency": "NA-126",
+  "Name": "Lahore-X",
+  "Candidate": "Malik Karamat Khokhar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 127,
+  "Constituency": "NA-127",
+  "Name": "Lahore-Xl",
+  "Candidate": "Zaheer Abbas Khokhar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 128,
+  "Constituency": "NA-128",
+  "Name": "Lahore-Xll",
+  "Candidate": "Salman Akram Raja Advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 129,
+  "Constituency": "NA-129",
+  "Name": "Lahore-Xlll",
+  "Candidate": "Mian Azhar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 130,
+  "Constituency": "NA-130",
+  "Name": "Lahore-XlV",
+  "Candidate": "Dr. Yasmeen Rashid",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 131,
+  "Constituency": "NA-131",
+  "Name": "Kasur-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 132,
+  "Constituency": "NA-132",
+  "Name": "Kasur-ll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 133,
+  "Constituency": "NA-133",
+  "Name": "Kasur-lll",
+  "Candidate": "Dr. Azeem Zahid Lakhvi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 134,
+  "Constituency": "NA-134",
+  "Name": "Kasur-lV",
+  "Candidate": "Sidra Faisal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 135,
+  "Constituency": "NA-135",
+  "Name": "Okara-l",
+  "Candidate": "Malik Akram Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 136,
+  "Constituency": "NA-136",
+  "Name": "Okara-ll",
+  "Candidate": "Abdullah Tahir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 137,
+  "Constituency": "NA-137",
+  "Name": "Okara-lll",
+  "Candidate": "Syed Raza Ali Gilani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 138,
+  "Constituency": "NA-138",
+  "Name": "Okara-IV",
+  "Candidate": "Mian Arshad Ali Khan Mayo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 139,
+  "Constituency": "NA-139",
+  "Name": "Pakpattan-l",
+  "Candidate": "Rao Umar Hashim",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 140,
+  "Constituency": "NA-140",
+  "Name": "Pakpattan-ll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 141,
+  "Constituency": "NA-141",
+  "Name": "Sahiwal-l",
+  "Candidate": "Rana Aamir Shahzad",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 142,
+  "Constituency": "NA-142",
+  "Name": "Sahiwal-ll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 143,
+  "Constituency": "NA-143",
+  "Name": "Sahiwal-lll",
+  "Candidate": "Rai Murtaza Iqbal",
+  "Symbol": "Unknown"
+ },
+ {
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 144,
+  "Constituency": "NA-144",
+  "Name": "Khanewal-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 145,
+  "Constituency": "NA-145",
+  "Name": "Khanewal-ll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 146,
+  "Constituency": "NA-146",
+  "Name": "Khanewal-lll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 147,
+  "Constituency": "NA-147",
+  "Name": "Khanewal-lV",
+  "Candidate": "Mian Naveed Jahania",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 148,
+  "Constituency": "NA-148",
+  "Name": "Multan-l",
+  "Candidate": "Barrister Taimur Malik",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 149,
+  "Constituency": "NA-149",
+  "Name": "Multan-ll",
+  "Candidate": "Malik Amir Dogar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 150,
+  "Constituency": "NA-150",
+  "Name": "Multan-lll",
+  "Candidate": "Zain Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 151,
+  "Constituency": "NA-151",
+  "Name": "Multan-lV",
+  "Candidate": "Shah Mehmood Qureshi\/Mehar Bano\nQureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 152,
+  "Constituency": "NA-152",
+  "Name": "Multan-V",
+  "Candidate": "Ibrahim Khan\/Imran Shaukat",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 153,
+  "Constituency": "NA-153",
+  "Name": "Multan-Vl",
+  "Candidate": "Dr. Riaz Lang",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 154,
+  "Constituency": "NA-154",
+  "Name": "Lodhran-l",
+  "Candidate": "Rana Faraz Ahmad Noon",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 155,
+  "Constituency": "NA-155",
+  "Name": "Lodhran-ll",
+  "Candidate": "Pir Iqbal Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 156,
+  "Constituency": "NA-156",
+  "Name": "Vehari-l",
+  "Candidate": "Ayesha Nazir Jutt",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 157,
+  "Constituency": "NA-157",
+  "Name": "Vehari-ll",
+  "Candidate": "Ejaz Bandeshia",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 158,
+  "Constituency": "NA-158",
+  "Name": "Vehari-lll",
+  "Candidate": "Tahir Iqbal Ch",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 159,
+  "Constituency": "NA-159",
+  "Name": "Vehari-lV",
+  "Candidate": "Aurangzeb Khichi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 160,
+  "Constituency": "NA-160",
+  "Name": "Bahawalnagar-l",
+  "Candidate": "Dr. Noor Ghafari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 161,
+  "Constituency": "NA-161",
+  "Name": "Bahawalnagar-ll",
+  "Candidate": "Imtiaz Alam Gilani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 162,
+  "Constituency": "NA-162",
+  "Name": "Bahawalnagar-lll",
+  "Candidate": "Ch Khalil Arain",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 163,
+  "Constituency": "NA-163",
+  "Name": "Bahawalnagar-lV",
+  "Candidate": "Shoukar Basra\/Talat Mehmood Basra",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 164,
+  "Constituency": "NA-164",
+  "Name": "Bahawalpur-l",
+  "Candidate": "Ijaz Ghaddan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 165,
+  "Constituency": "NA-165",
+  "Name": "Bahawalpur-ll",
+  "Candidate": "Basharat Randhawa",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 166,
+  "Constituency": "NA-166",
+  "Name": "Bahawalpur-lll",
+  "Candidate": "Kanwal Shauzab",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 167,
+  "Constituency": "NA-167",
+  "Name": "Bahawalpur-lV",
+  "Candidate": "Malik Mehboob Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 168,
+  "Constituency": "NA-168",
+  "Name": "Bahawalpur-V",
+  "Candidate": "Sami Ullah Ch.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 169,
+  "Constituency": "NA-169",
+  "Name": "Rahim Yar Khan-l",
+  "Candidate": "Raja Saleem",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 170,
+  "Constituency": "NA-170",
+  "Name": "Rahim Yar Khan-ll",
+  "Candidate": "Mian Ghous",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 171,
+  "Constituency": "NA-171",
+  "Name": "Rahim Yar Khan-lll",
+  "Candidate": "Mumtaz Mustafa Advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 172,
+  "Constituency": "NA-172",
+  "Name": "Rahim Yar Khan-lV",
+  "Candidate": "Mrs. Qamar Javed Waraich",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 173,
+  "Constituency": "NA-173",
+  "Name": "Rahim Yar Khan-V",
+  "Candidate": "Barrister Nabeel Dharr",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 174,
+  "Constituency": "NA-174",
+  "Name": "Rahim Yar Khan-Vl",
+  "Candidate": "Raees Mehboob",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 175,
+  "Constituency": "NA-175",
+  "Name": "Muzaffargarh-l",
+  "Candidate": "Jamshaid Dasti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 176,
+  "Constituency": "NA-176",
+  "Name": "Muzaffargarh-ll",
+  "Candidate": "Mrs. Humaira Ahmad Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 177,
+  "Constituency": "NA-177",
+  "Name": "Muzaffargarh-lll",
+  "Candidate": "Sardar Moazam Jatoi",
+  "Symbol": "Huqqa"
+ },
+ {
+  "SerialNo": 178,
+  "Constituency": "NA-178",
+  "Name": "Muzaffargarh-lV",
+  "Candidate": "Dawood Jatoi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 179,
+  "Constituency": "NA-179",
+  "Name": "Kot Addu-l",
+  "Candidate": "Shabbir Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 180,
+  "Constituency": "NA-180",
+  "Name": "Kot Addu-ll",
+  "Candidate": "Mian Fayaz Chajra",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 181,
+  "Constituency": "NA-181",
+  "Name": "Layyah-l",
+  "Candidate": "Mrs. Amber Majeed Niazi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 182,
+  "Constituency": "NA-182",
+  "Name": "Layyah-ll",
+  "Candidate": "Awais Haider Jhakar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 183,
+  "Constituency": "NA-183",
+  "Name": "Taunsa",
+  "Candidate": "Khwaja Sheraz Mehmood",
+  "Symbol": "Tea spoon"
+ },
+ {
+  "SerialNo": 184,
+  "Constituency": "NA-184",
+  "Name": "D.G.Khan-l",
+  "Candidate": "Ali Muhammad Khalul",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 185,
+  "Constituency": "NA-185",
+  "Name": "D.G.Khan-ll",
+  "Candidate": "Zartaj Gul Wazir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 186,
+  "Constituency": "NA-186",
+  "Name": "D.G.Khan-lll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 187,
+  "Constituency": "NA-187",
+  "Name": "Rajanpur-l",
+  "Candidate": "Atif Ali Khan Dhreshak",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 188,
+  "Constituency": "NA-188",
+  "Name": "Rajanpur-ll",
+  "Candidate": "Ahmed Ali Khan Dhreshak",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 189,
+  "Constituency": "NA-189",
+  "Name": "Rajanpur-lll",
+  "Candidate": "Zahid Mehmood Mazari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 190,
+  "Constituency": "NA-190",
+  "Name": "Jacobabad",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 191,
+  "Constituency": "NA-191",
+  "Name": "Jacobabad-Cum-Kashmore",
+  "Candidate": "Shah Ali Domki",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 192,
+  "Constituency": "NA-192",
+  "Name": "Kashmore-Cum-Shikarpur",
+  "Candidate": "Muhammad Alam Bajarani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 193,
+  "Constituency": "NA-193",
+  "Name": "Shikarpur",
+  "Candidate": "Advocate Aftab Somro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 194,
+  "Constituency": "NA-194",
+  "Name": "Larkana-l",
+  "Candidate": "Saif Ullah Abro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 195,
+  "Constituency": "NA-195",
+  "Name": "Larkana-ll",
+  "Candidate": "Qazi Manzoor Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 196,
+  "Constituency": "NA-196",
+  "Name": "Kamber Shahdadkot-l",
+  "Candidate": "Habibullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 197,
+  "Constituency": "NA-197",
+  "Name": "Kamber Shahdadkot-ll",
+  "Candidate": "Naheed Khawar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 198,
+  "Constituency": "NA-198",
+  "Name": "Ghotki-l",
+  "Candidate": "Abdul Sattar Samoon",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 199,
+  "Constituency": "NA-199",
+  "Name": "Ghotki-ll",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 200,
+  "Constituency": "NA-200",
+  "Name": "Sukkur-l",
+  "Candidate": "Gohar Khoso",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 201,
+  "Constituency": "NA-201",
+  "Name": "Sukkur-ll",
+  "Candidate": "Sattar Chachar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 202,
+  "Constituency": "NA-202",
+  "Name": "Khairpur-l",
+  "Candidate": "Ambareen Malik",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 203,
+  "Constituency": "NA-203",
+  "Name": "Khairpur-ll",
+  "Candidate": "Jameel Ahmed Lund",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 204,
+  "Constituency": "NA-204",
+  "Name": "Khairpur-lll",
+  "Candidate": "Syed Niaz Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 205,
+  "Constituency": "NA-205",
+  "Name": "Naushahro Feroze-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 206,
+  "Constituency": "NA-206",
+  "Name": "Naushahro Feroze-ll",
+  "Candidate": "Amanullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 207,
+  "Constituency": "NA-207",
+  "Name": "Shaheed Benazirabad-l",
+  "Candidate": "Sardar Sher Muhammad Rind Baloch",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 208,
+  "Constituency": "NA-208",
+  "Name": "Shaheed Benazirabad-ll",
+  "Candidate": "Gul Muhammad Rind",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 209,
+  "Constituency": "NA-209",
+  "Name": "Sanghar-l",
+  "Candidate": "Hameeda Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 210,
+  "Constituency": "NA-210",
+  "Name": "Sanghar-ll",
+  "Candidate": "Manochaher",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 211,
+  "Constituency": "NA-211",
+  "Name": "Mirpurkhas-l",
+  "Candidate": "Raja Abdul Haque",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 212,
+  "Constituency": "NA-212",
+  "Name": "Mirpurkhas-ll",
+  "Candidate": "Syed Mumtaz Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 213,
+  "Constituency": "NA-213",
+  "Name": "Umerkot",
+  "Candidate": "Lalchand Malhi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 214,
+  "Constituency": "NA-214",
+  "Name": "Tharparkar-l",
+  "Candidate": "Makhdoom Shah Mehmood Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 215,
+  "Constituency": "NA-215",
+  "Name": "Tharparkar-ll",
+  "Candidate": "Mehar u Nisa Baloch",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 216,
+  "Constituency": "NA-216",
+  "Name": "Matiari",
+  "Candidate": "Nazish Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 217,
+  "Constituency": "NA-217",
+  "Name": "Tando Allahyar",
+  "Candidate": "Rozina Bhutto",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 218,
+  "Constituency": "NA-218",
+  "Name": "Hyderabad-l",
+  "Candidate": "Muhram Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 219,
+  "Constituency": "NA-219",
+  "Name": "Hyderabad-ll",
+  "Candidate": "Mustansir Billah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 220,
+  "Constituency": "NA-220",
+  "Name": "Hyderabad-lll",
+  "Candidate": "Faisal Mughal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 221,
+  "Constituency": "NA-221",
+  "Name": "Tando Muhammad Khan",
+  "Candidate": "Muhammad Irfan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 222,
+  "Constituency": "NA-222",
+  "Name": "Badin-l",
+  "Candidate": "Shah Nawaz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 223,
+  "Constituency": "NA-223",
+  "Name": "Badin-ll",
+  "Candidate": "Azizullah Dero",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 224,
+  "Constituency": "NA-224",
+  "Name": "Sajawal",
+  "Candidate": "Mumtaz Ali Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 225,
+  "Constituency": "NA-225",
+  "Name": "Thatta",
+  "Candidate": "Syed Jameel Ahmed Shah Bukhari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 226,
+  "Constituency": "NA-226",
+  "Name": "Jamshoro",
+  "Candidate": "Abdul Hakeem Chandio",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 227,
+  "Constituency": "NA-227",
+  "Name": "Dadu-l",
+  "Candidate": "Shabana Nawab",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 228,
+  "Constituency": "NA-228",
+  "Name": "Dadu-ll",
+  "Candidate": "Madad Ali Sodhar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 229,
+  "Constituency": "NA-229",
+  "Name": "Malir-l",
+  "Candidate": "Wali Muhammad Mugheri",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 230,
+  "Constituency": "NA-230",
+  "Name": "Malir-ll",
+  "Candidate": "Dr Masroor Sial",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 231,
+  "Constituency": "NA-231",
+  "Name": "Malir-lll",
+  "Candidate": "Khalid Mehmood Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 232,
+  "Constituency": "NA-232",
+  "Name": "Karachi Korangi-l",
+  "Candidate": "Aleem Adil Sheikh",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 233,
+  "Constituency": "NA-233",
+  "Name": "Karachi Korangi-ll",
+  "Candidate": "Advocate Haris Meo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 234,
+  "Constituency": "NA-234",
+  "Name": "Karachi Korangi-lll",
+  "Candidate": "Faheem Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 235,
+  "Constituency": "NA-235",
+  "Name": "Karachi East-l",
+  "Candidate": "Saif ur Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 236,
+  "Constituency": "NA-236",
+  "Name": "Karachi East-ll",
+  "Candidate": "Muhammad Alamgir Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 237,
+  "Constituency": "NA-237",
+  "Name": "Karachi East-lll",
+  "Candidate": "Advocate Zahoor Mehsud",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 238,
+  "Constituency": "NA-238",
+  "Name": "Karachi East-lV",
+  "Candidate": "Haleem Adil Sheikh",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 239,
+  "Constituency": "NA-239",
+  "Name": "Karachi South-l",
+  "Candidate": "Yasir Balochs",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 240,
+  "Constituency": "NA-240",
+  "Name": "Karachi South-ll",
+  "Candidate": "Ramzan Ghachi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 241,
+  "Constituency": "NA-241",
+  "Name": "Karachi South-lll",
+  "Candidate": "Khurram Sher Zaman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 242,
+  "Constituency": "NA-242",
+  "Name": "Karachi Keamari-l",
+  "Candidate": "Dawa Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 243,
+  "Constituency": "NA-243",
+  "Name": "Karachi Keamari-ll",
+  "Candidate": "Advocate Shujaat Ali Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 244,
+  "Constituency": "NA-244",
+  "Name": "Karachi West-l",
+  "Candidate": "Aftab Jahangir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 245,
+  "Constituency": "NA-245",
+  "Name": "Karachi West-ll",
+  "Candidate": "Ataullah Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 246,
+  "Constituency": "NA-246",
+  "Name": "Karachi West-lll",
+  "Candidate": "Malik Arif Awan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 247,
+  "Constituency": "NA-247",
+  "Name": "Karachi Central-l",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 248,
+  "Constituency": "NA-248",
+  "Name": "Karachi Central-ll",
+  "Candidate": "Arslan Khalid",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 249,
+  "Constituency": "NA-249",
+  "Name": "Karachi Central-lll",
+  "Candidate": "Barrister Uzair Ghouri",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 250,
+  "Constituency": "NA-250",
+  "Name": "Karachi Central-lV",
+  "Candidate": "Riaz Hyder",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 251,
+  "Constituency": "NA-251",
+  "Name": "Sherani",
+  "Candidate": "Nawabzada Amin Jogezai",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 252,
+  "Constituency": "NA-252",
+  "Name": "Musa Khail",
+  "Candidate": "Sardar Babar Musakhel",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 253,
+  "Constituency": "NA-253",
+  "Name": "Ziarat",
+  "Candidate": "Saddam Tareen",
+  "Symbol": "Unknown"
+ },
+ {
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 254,
+  "Constituency": "NA-254",
+  "Name": "Jhal Magsi",
+  "Candidate": "Pir Bux Jamoot",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 255,
+  "Constituency": "NA-255",
+  "Name": "Usta Muhammad-cum-Nasirabad-cum-Sohbat Pur",
+  "Candidate": "Arif Rind",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 256,
+  "Constituency": "NA-256",
+  "Name": "Khuzdar",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 257,
+  "Constituency": "NA-257",
+  "Name": "Hub-cum-Lasbela",
+  "Candidate": "Mir Ali ahmad Zehri",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 258,
+  "Constituency": "NA-258",
+  "Name": "Panjgur-cum-Kech",
+  "Candidate": "Sardar Baber Khan Musakhail",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 259,
+  "Constituency": "NA-259",
+  "Name": "Kech-cum-Gwadar",
+  "Candidate": "Sardar Akbar Tarin",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 260,
+  "Constituency": "NA-260",
+  "Name": "Chagai",
+  "Candidate": "Ghulam Qadir Sanjrani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 261,
+  "Constituency": "NA-261",
+  "Name": "Surab",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 262,
+  "Constituency": "NA-262",
+  "Name": "Quetta-l",
+  "Candidate": "Saif Ullah Kakar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 263,
+  "Constituency": "NA-263",
+  "Name": "Quetta-ll",
+  "Candidate": "Salar Khan Kakar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 264,
+  "Constituency": "NA-264",
+  "Name": "Quetta-lll",
+  "Candidate": "Zain ul abidin Khilji",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 265,
+  "Constituency": "NA-265",
+  "Name": "Pishin",
+  "Candidate": "Syed Zahoor Agha",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 266,
+  "Constituency": "NA-266",
+  "Name": "Killa Abdullah",
+  "Candidate": "Malak Muhammad Asmat Kakar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 1,
+  "Constituency": "PP-1",
+  "Name": "Attock-I",
+  "Candidate": "Qazi Ahmed Akbar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 2,
+  "Constituency": "PP-2",
+  "Name": "Attock-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 3,
+  "Constituency": "PP-3",
+  "Name": "Attock-III",
+  "Candidate": "Ijaz Bukhari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 4,
+  "Constituency": "PP-4",
+  "Name": "Attock-IV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 5,
+  "Constituency": "PP-5",
+  "Name": "Attock-V",
+  "Candidate": "Jamshed Altaf",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 6,
+  "Constituency": "PP-6",
+  "Name": "Murree",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 7,
+  "Constituency": "PP-7",
+  "Name": "Rawalpindi-I",
+  "Candidate": "Col. (Retd.) Shabbir Awan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 8,
+  "Constituency": "PP-8",
+  "Name": "Rawalpindi-II",
+  "Candidate": "Javed Kausar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 9,
+  "Constituency": "PP-9",
+  "Name": "Rawalpindi-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 10,
+  "Constituency": "PP-10",
+  "Name": "Rawalpindi-IV",
+  "Candidate": "Chaudhary Ameer Afzal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 11,
+  "Constituency": "PP-11",
+  "Name": "Rawalpindi-V",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 12,
+  "Constituency": "PP-12",
+  "Name": "Rawalpindi-VI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 13,
+  "Constituency": "PP-13",
+  "Name": "Rawalpindi-VII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 14,
+  "Constituency": "PP-14",
+  "Name": "Rawalpindi-VIII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 15,
+  "Constituency": "PP-15",
+  "Name": "Rawalpindi-IX",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 16,
+  "Constituency": "PP-16",
+  "Name": "Rawalpindi-X",
+  "Candidate": "Ijaz Khan Jazi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 17,
+  "Constituency": "PP-17",
+  "Name": "Rawalpindi-XI",
+  "Candidate": "Raja Rashid Hafeez",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 18,
+  "Constituency": "PP-18",
+  "Name": "Rawalpindi-XII",
+  "Candidate": "Ch. Ashgar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 19,
+  "Constituency": "PP-19",
+  "Name": "Rawalpindi-XIII",
+  "Candidate": "M.Tanveer Aslam",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 20,
+  "Constituency": "PP-20",
+  "Name": "Chakwal-I",
+  "Candidate": "Ch. Ali Nasir Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 21,
+  "Constituency": "PP-21",
+  "Name": "Chakwal-II",
+  "Candidate": "Raja Tariq Kalas",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 22,
+  "Constituency": "PP-22",
+  "Name": "Chakwal-cum-Talagang",
+  "Candidate": "Hakeem Nisar Ahmad",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 23,
+  "Constituency": "PP-23",
+  "Name": "Talagang",
+  "Candidate": "Col. Surkuru",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 24,
+  "Constituency": "PP-24",
+  "Name": "Jehlum-I",
+  "Candidate": "Gul Zaman Advocate",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 25,
+  "Constituency": "PP-25",
+  "Name": "Jehlum-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 26,
+  "Constituency": "PP-26",
+  "Name": "Jehlum-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 27,
+  "Constituency": "PP-27",
+  "Name": "Gujrat-I",
+  "Candidate": "Nauman Ashraf",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 28,
+  "Constituency": "PP-28",
+  "Name": "Gujrat-II",
+  "Candidate": "Shahid Raza",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 29,
+  "Constituency": "PP-29",
+  "Name": "Gujrat-III",
+  "Candidate": "Aafia Noureen",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 30,
+  "Constituency": "PP-30",
+  "Name": "Gujrat-IV",
+  "Candidate": "Tanveer Gondal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 31,
+  "Constituency": "PP-31",
+  "Name": "Gujrat-V",
+  "Candidate": "Mudassir Machiana",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 32,
+  "Constituency": "PP-32",
+  "Name": "Gujrat-VI",
+  "Candidate": "Samaira Ellahee Chauhan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 33,
+  "Constituency": "PP-33",
+  "Name": "Gujrat-VII",
+  "Candidate": "Ali Liaquat Bhadar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 34,
+  "Constituency": "PP-34",
+  "Name": "Gujrat-VIII",
+  "Candidate": "Zahra Ikhlaas",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 35,
+  "Constituency": "PP-35",
+  "Name": "Wazirabad-I",
+  "Candidate": "Ch. Yousaf",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 36,
+  "Constituency": "PP-36",
+  "Name": "Wazirabad-II",
+  "Candidate": "Ahmed Chattha",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 37,
+  "Constituency": "PP-37",
+  "Name": "Hafizabad-I",
+  "Candidate": "Asad ullah Arian",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 38,
+  "Constituency": "PP-38",
+  "Name": "Hafizabad-II",
+  "Candidate": "Sikander Nawaz Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 39,
+  "Constituency": "PP-39",
+  "Name": "Hafizabad-III",
+  "Candidate": "Qamar Gujjar Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 40,
+  "Constituency": "PP-40",
+  "Name": "M.B.Din-I",
+  "Candidate": "Tariq Sahi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 41,
+  "Constituency": "PP-41",
+  "Name": "M.B.Din-II",
+  "Candidate": "Basma Riaz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 42,
+  "Constituency": "PP-42",
+  "Name": "M.B.Din-III",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 43,
+  "Constituency": "PP-43",
+  "Name": "M.B.Din-IV",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 44,
+  "Constituency": "PP-44",
+  "Name": "Sialkot-I",
+  "Candidate": "Saeed Bhalli",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 45,
+  "Constituency": "PP-45",
+  "Name": "Sialkot-II",
+  "Candidate": "Umer Javed Ghumman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 46,
+  "Constituency": "PP-46",
+  "Name": "Sialkot-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 47,
+  "Constituency": "PP-47",
+  "Name": "Sialkot-IV",
+  "Candidate": "Mehar Kashif",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 48,
+  "Constituency": "PP-48",
+  "Name": "Sialkot-V",
+  "Candidate": "Ahsan Abbas Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 49,
+  "Constituency": "PP-49",
+  "Name": "Sialkot-VI",
+  "Candidate": "Munawar Gill",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 50,
+  "Constituency": "PP-50",
+  "Name": "Sialkot-VII",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 51,
+  "Constituency": "PP-51",
+  "Name": "Sialkot-VIII",
+  "Candidate": "Waqas Iftikhar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 52,
+  "Constituency": "PP-52",
+  "Name": "Sialkot-IX",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 53,
+  "Constituency": "PP-53",
+  "Name": "Sialkot-X",
+  "Candidate": "Barrister Jamshed Ghias",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 54,
+  "Constituency": "PP-54",
+  "Name": "Narowal-I",
+  "Candidate": "Javed Mukhtar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 55,
+  "Constituency": "PP-55",
+  "Name": "Narowal-II",
+  "Candidate": "Arslan Hafeez",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 56,
+  "Constituency": "PP-56",
+  "Name": "Narowal-III",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 57,
+  "Constituency": "PP-57",
+  "Name": "Narowal-IV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 58,
+  "Constituency": "PP-58",
+  "Name": "Narowal-V",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 59,
+  "Constituency": "PP-59",
+  "Name": "Gujranwala-I",
+  "Candidate": "Muhammad Nasir Cheema",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 60,
+  "Constituency": "PP-60",
+  "Name": "Gujranwala-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 61,
+  "Constituency": "PP-61",
+  "Name": "Gujranwala-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 62,
+  "Constituency": "PP-62",
+  "Name": "Gujranwala-IV",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 63,
+  "Constituency": "PP-63",
+  "Name": "Gujranwala-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 64,
+  "Constituency": "PP-64",
+  "Name": "Gujranwala-VI",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 65,
+  "Constituency": "PP-65",
+  "Name": "Gujranwala-VII",
+  "Candidate": "Hassan Iqbal Buttar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 66,
+  "Constituency": "PP-66",
+  "Name": "Gujranwala-VIII",
+  "Candidate": "Dr. Sohail Zafar Cheema",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 67,
+  "Constituency": "PP-67",
+  "Name": "Gujranwala-IX",
+  "Candidate": "Ali Waqeel Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 68,
+  "Constituency": "PP-68",
+  "Name": "Gujranwala-X",
+  "Candidate": "Mian Arqam Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 69,
+  "Constituency": "PP-69",
+  "Name": "Gujranwala-XI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 70,
+  "Constituency": "PP-70",
+  "Name": "Gujranwala-XII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 71,
+  "Constituency": "PP-71",
+  "Name": "Sargodha-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 72,
+  "Constituency": "PP-72",
+  "Name": "Sargodha-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 73,
+  "Constituency": "PP-73",
+  "Name": "Sargodha-III",
+  "Candidate": "Ansar Haral",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 74,
+  "Constituency": "PP-74",
+  "Name": "Sargodha-IV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 75,
+  "Constituency": "PP-75",
+  "Name": "Sargodha-V",
+  "Candidate": "Ali Asif Bagga",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 76,
+  "Constituency": "PP-76",
+  "Name": "Sargodha-VI",
+  "Candidate": "Zulfiqar Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 77,
+  "Constituency": "PP-77",
+  "Name": "Sargodha-VII",
+  "Candidate": "Abdul Wahab Kahloon",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 78,
+  "Constituency": "PP-78",
+  "Name": "Sargodha-VIII",
+  "Candidate": "Waqar Anwar Sandhu",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 79,
+  "Constituency": "PP-79",
+  "Name": "Sargodha-IX",
+  "Candidate": "Ghulam Ali Asghar Lali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 80,
+  "Constituency": "PP-80",
+  "Name": "Sargodha-X",
+  "Candidate": "Iftikhar Gondal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 81,
+  "Constituency": "PP-81",
+  "Name": "Khushab-I",
+  "Candidate": "Malik Hassan Aslam",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 82,
+  "Constituency": "PP-82",
+  "Name": "Khushab-II",
+  "Candidate": "Masood Kandan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 83,
+  "Constituency": "PP-83",
+  "Name": "Khushab-III",
+  "Candidate": "Ahmad Raza Gujjar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 84,
+  "Constituency": "PP-84",
+  "Name": "Khushab-IV",
+  "Candidate": "Fateh Khaliq Bandial",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 85,
+  "Constituency": "PP-85",
+  "Name": "Mianwali-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 86,
+  "Constituency": "PP-86",
+  "Name": "Mianwali-II",
+  "Candidate": "Amin Ullah Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 87,
+  "Constituency": "PP-87",
+  "Name": "Mianwali-III",
+  "Candidate": "Ahmad Khan Bachar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 88,
+  "Constituency": "PP-88",
+  "Name": "Mianwali-IV",
+  "Candidate": "Malik Mumtaz Ashaar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 89,
+  "Constituency": "PP-89",
+  "Name": "Bhakkar-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 90,
+  "Constituency": "PP-90",
+  "Name": "Bhakkar-II",
+  "Candidate": "Irfan Ullah Niazi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 91,
+  "Constituency": "PP-91",
+  "Name": "Bhakkar-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 92,
+  "Constituency": "PP-92",
+  "Name": "Bhakkar-IV",
+  "Candidate": "Rafique Khan Niazi Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 93,
+  "Constituency": "PP-93",
+  "Name": "Bhakkar-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 94,
+  "Constituency": "PP-94",
+  "Name": "Chiniot-I",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 95,
+  "Constituency": "PP-95",
+  "Name": "Chiniot-II",
+  "Candidate": "Shaukat Thaheem",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 96,
+  "Constituency": "PP-96",
+  "Name": "Chiniot-III",
+  "Candidate": "Hussain Jappa",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 97,
+  "Constituency": "PP-97",
+  "Name": "Chiniot-IV",
+  "Candidate": "Saleem Bibi Bharwana",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 98,
+  "Constituency": "PP-98",
+  "Name": "Faisalabad-I",
+  "Candidate": "Junaid Afzal Sahi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 99,
+  "Constituency": "PP-99",
+  "Name": "Faisalabad-II",
+  "Candidate": "Ahmed Mujtaba Ch.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 100,
+  "Constituency": "PP-100",
+  "Name": "Faisalabad-III",
+  "Candidate": "Umair Wasi Zafar Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 101,
+  "Constituency": "PP-101",
+  "Name": "Faisalabad-IV",
+  "Candidate": "Muhammad Akram Ch.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 102,
+  "Constituency": "PP-102",
+  "Name": "Faisalabad-V",
+  "Candidate": "Shaheer Dawood Butt",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 103,
+  "Constituency": "PP-103",
+  "Name": "Faisalabad-VI",
+  "Candidate": "Noor Shahid",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 104,
+  "Constituency": "PP-104",
+  "Name": "Faisalabad-VII",
+  "Candidate": "Farooq Arshed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 105,
+  "Constituency": "PP-105",
+  "Name": "Faisalabad-VIII",
+  "Candidate": "Adil Pervaiz Gujjar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 106,
+  "Constituency": "PP-106",
+  "Name": "Faisalabad-IX",
+  "Candidate": "Rai Ahsan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 107,
+  "Constituency": "PP-107",
+  "Name": "Faisalabad-X",
+  "Candidate": "Javed Niaz Munj",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 108,
+  "Constituency": "PP-108",
+  "Name": "Faisalabad-XI",
+  "Candidate": "Rana Aftab",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 109,
+  "Constituency": "PP-109",
+  "Name": "Faisalabad-XII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 110,
+  "Constituency": "PP-110",
+  "Name": "Faisalabad-XIII",
+  "Candidate": "Hassan ZaKa Niazi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 111,
+  "Constituency": "PP-111",
+  "Name": "Faisalabad-XIV",
+  "Candidate": "Basharat Ali Dogar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 112,
+  "Constituency": "PP-112",
+  "Name": "Faisalabad-XV",
+  "Candidate": "Asad Mehmood",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 113,
+  "Constituency": "PP-113",
+  "Name": "Faisalabad-XVI",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 114,
+  "Constituency": "PP-114",
+  "Name": "Faisalabad-XVII",
+  "Candidate": "Latif Nazar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 115,
+  "Constituency": "PP-115",
+  "Name": "Faisalabad-XVIII",
+  "Candidate": "Sheikh Shahid Javed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 116,
+  "Constituency": "PP-116",
+  "Name": "Faisalabad-XIX",
+  "Candidate": "Ismail Sela",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 117,
+  "Constituency": "PP-117",
+  "Name": "Faisalabad-XX",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 118,
+  "Constituency": "PP-118",
+  "Name": "Faisalabad-XXI",
+  "Candidate": "Kayal Ahmed Castro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 119,
+  "Constituency": "PP-119",
+  "Name": "T.T Singh-I",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 120,
+  "Constituency": "PP-120",
+  "Name": "T.T Singh-II",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 121,
+  "Constituency": "PP-121",
+  "Name": "T.T Singh-III",
+  "Candidate": "Saeed Ahmed Saeedi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 122,
+  "Constituency": "PP-122",
+  "Name": "T.T Singh-IV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 123,
+  "Constituency": "PP-123",
+  "Name": "T.T Singh-V",
+  "Candidate": "Ashfa Riaz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 124,
+  "Constituency": "PP-124",
+  "Name": "T.T Singh-VI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 125,
+  "Constituency": "PP-125",
+  "Name": "Jhang-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 126,
+  "Constituency": "PP-126",
+  "Name": "Jhang-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 127,
+  "Constituency": "PP-127",
+  "Name": "Jhang-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 128,
+  "Constituency": "PP-128",
+  "Name": "Jhang-IV",
+  "Candidate": "Col. Ghazanfar Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 129,
+  "Constituency": "PP-129",
+  "Name": "Jhang-V",
+  "Candidate": "Mian Muhammad Asif Khatia",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 130,
+  "Constituency": "PP-130",
+  "Name": "Jhang-VI",
+  "Candidate": "Rana Shehbaz Ahmed Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 131,
+  "Constituency": "PP-131",
+  "Name": "Jhang-VII",
+  "Candidate": "Mian Azam Chela",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 132,
+  "Constituency": "PP-132",
+  "Name": "Nankana Sahib-I",
+  "Candidate": "Adnan Ramay Adv",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 133,
+  "Constituency": "PP-133",
+  "Name": "Nankana Sahib-II",
+  "Candidate": "Mian Atif",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 134,
+  "Constituency": "PP-134",
+  "Name": "Nankana Sahib-III",
+  "Candidate": "Sohail Gill",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 135,
+  "Constituency": "PP-135",
+  "Name": "Nankana Sahib-IV",
+  "Candidate": "Rana Jameel Hassan Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 136,
+  "Constituency": "PP-136",
+  "Name": "Sheikhupura-I",
+  "Candidate": "Umar Aftab Dhillon",
+  "Symbol": "Aeroplane"
+ },
+ {
+  "SerialNo": 137,
+  "Constituency": "PP-137",
+  "Name": "Sheikhupura-II",
+  "Candidate": "Khurram Ejaz Chattha",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 138,
+  "Constituency": "PP-138",
+  "Name": "Sheikhupura-III",
+  "Candidate": "Abu Zar Chadhar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 139,
+  "Constituency": "PP-139",
+  "Name": "Sheikhupura-IV",
+  "Candidate": "Ijaz Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 140,
+  "Constituency": "PP-140",
+  "Name": "Sheikhupura-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 141,
+  "Constituency": "PP-141",
+  "Name": "Sheikhupura-VI",
+  "Candidate": "Tayyab Rashid Adv",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 142,
+  "Constituency": "PP-142",
+  "Name": "Sheikhupura-VII",
+  "Candidate": "Waqas Maan Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 143,
+  "Constituency": "PP-143",
+  "Name": "Sheikhupura-VIII",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 144,
+  "Constituency": "PP-144",
+  "Name": "Sheikhupura-IX",
+  "Candidate": "Sarfaraz Dogar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 145,
+  "Constituency": "PP-145",
+  "Name": "Lahore-I",
+  "Candidate": "Yasir Gillani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 146,
+  "Constituency": "PP-146",
+  "Name": "Lahore-II",
+  "Candidate": "Junaid Razzak Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 147,
+  "Constituency": "PP-147",
+  "Name": "Lahore-III",
+  "Candidate": "Mohammad Khan Madni",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 148,
+  "Constituency": "PP-148",
+  "Name": "Lahore-IV",
+  "Candidate": "G.M Dewan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 149,
+  "Constituency": "PP-149",
+  "Name": "Lahore-V",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 150,
+  "Constituency": "PP-150",
+  "Name": "Lahore-VI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 151,
+  "Constituency": "PP-151",
+  "Name": "Lahore-VII",
+  "Candidate": "Qaiser Sohail Butt",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 152,
+  "Constituency": "PP-152",
+  "Name": "Lahore-VIII",
+  "Candidate": "Nouman Majeed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 153,
+  "Constituency": "PP-153",
+  "Name": "Lahore-IX",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 154,
+  "Constituency": "PP-154",
+  "Name": "Lahore-X",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 155,
+  "Constituency": "PP-155",
+  "Name": "Lahore-XI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 156,
+  "Constituency": "PP-156",
+  "Name": "Lahore-XII",
+  "Candidate": "Ali Imtiaz Warraich",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 157,
+  "Constituency": "PP-157",
+  "Name": "Lahore-XIII",
+  "Candidate": "Hafiz Farhat Abbas",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 158,
+  "Constituency": "PP-158",
+  "Name": "Lahore-XIV",
+  "Candidate": "Ch. Yusaf Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 159,
+  "Constituency": "PP-159",
+  "Name": "Lahore-XV",
+  "Candidate": "Mehar Sharafat Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 160,
+  "Constituency": "PP-160",
+  "Name": "Lahore-XVI",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 161,
+  "Constituency": "PP-161",
+  "Name": "Lahore-XVII",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 162,
+  "Constituency": "PP-162",
+  "Name": "Lahore-XVIII",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 163,
+  "Constituency": "PP-163",
+  "Name": "Lahore-XIX",
+  "Candidate": "Azeem Ullah Khan Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 164,
+  "Constituency": "PP-164",
+  "Name": "Lahore-XX",
+  "Candidate": "Yusaf Mayo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 165,
+  "Constituency": "PP-165",
+  "Name": "Lahore-XXI",
+  "Candidate": "Ahmer Bhatti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 166,
+  "Constituency": "PP-166",
+  "Name": "Lahore-XXII",
+  "Candidate": "Khalid Mehmood Gujjar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 167,
+  "Constituency": "PP-167",
+  "Name": "Lahore-XXIII",
+  "Candidate": "Ammar Bashir Gujjar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 168,
+  "Constituency": "PP-168",
+  "Name": "Lahore-XXIV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 169,
+  "Constituency": "PP-169",
+  "Name": "Lahore-XXV",
+  "Candidate": "Mian Mehmood ur Rasheed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 170,
+  "Constituency": "PP-170",
+  "Name": "Lahore-XXVI",
+  "Candidate": "Haroon Akbar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 171,
+  "Constituency": "PP-171",
+  "Name": "Lahore-XXVII",
+  "Candidate": "Mian Aslam Iqbal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 172,
+  "Constituency": "PP-172",
+  "Name": "Lahore-XXVIII",
+  "Candidate": "Mrs. Mehar Wajid",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 173,
+  "Constituency": "PP-173",
+  "Name": "Lahore-XXIX",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 174,
+  "Constituency": "PP-174",
+  "Name": "Lahore-XXX",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 175,
+  "Constituency": "PP-175",
+  "Name": "Kasur-I",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 176,
+  "Constituency": "PP-176",
+  "Name": "Kasur-II",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 177,
+  "Constituency": "PP-177",
+  "Name": "Kasur-III",
+  "Candidate": "Mehar Saleem Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 178,
+  "Constituency": "PP-178",
+  "Name": "Kasur-IV",
+  "Candidate": "Barrister Shahid Masood",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 179,
+  "Constituency": "PP-179",
+  "Name": "Kasur-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 180,
+  "Constituency": "PP-180",
+  "Name": "Kasur-VI",
+  "Candidate": "Daud Aslam Dogar Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 181,
+  "Constituency": "PP-181",
+  "Name": "Kasur-VII",
+  "Candidate": "Mian Hanbal Sana",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 182,
+  "Constituency": "PP-182",
+  "Name": "Kasur-VIII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 183,
+  "Constituency": "PP-183",
+  "Name": "Kasur-IX",
+  "Candidate": "Rana Almas Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 184,
+  "Constituency": "PP-184",
+  "Name": "Kasur-X",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 185,
+  "Constituency": "PP-185",
+  "Name": "Okara-I",
+  "Candidate": "Mehr Mohammad Javed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 186,
+  "Constituency": "PP-186",
+  "Name": "Okara-II",
+  "Candidate": "Syed Gulzar Husnain",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 187,
+  "Constituency": "PP-187",
+  "Name": "Okara-III",
+  "Candidate": "Fiaz Qasim Wattoo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 188,
+  "Constituency": "PP-188",
+  "Name": "Okara-IV",
+  "Candidate": "Ali Haider Wattoo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 189,
+  "Constituency": "PP-189",
+  "Name": "Okara-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 190,
+  "Constituency": "PP-190",
+  "Name": "Okara-VI",
+  "Candidate": "Mehr Abdul Sattar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 191,
+  "Constituency": "PP-191",
+  "Name": "Okara-VII",
+  "Candidate": "Ch. Saleem Sadiq",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 192,
+  "Constituency": "PP-192",
+  "Name": "Okara-VIII",
+  "Candidate": "Rai Hammad Aslam",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 193,
+  "Constituency": "PP-193",
+  "Name": "Pakpattan-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 194,
+  "Constituency": "PP-194",
+  "Name": "Pakpattan-II",
+  "Candidate": "Mehr Moeenuddin Chishti",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 195,
+  "Constituency": "PP-195",
+  "Name": "Pakpattan-III",
+  "Candidate": "Salman Safdar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 196,
+  "Constituency": "PP-196",
+  "Name": "Pakpattan-IV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 197,
+  "Constituency": "PP-197",
+  "Name": "Pakpattan-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 198,
+  "Constituency": "PP-198",
+  "Name": "Sahiwal-I",
+  "Candidate": "Sajjad Nasir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 199,
+  "Constituency": "PP-199",
+  "Name": "Sahiwal-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 200,
+  "Constituency": "PP-200",
+  "Name": "Sahiwal-III",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 201,
+  "Constituency": "PP-201",
+  "Name": "Sahiwal-IV",
+  "Candidate": "Muhammad Yar Dumrah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 202,
+  "Constituency": "PP-202",
+  "Name": "Sahiwal-V",
+  "Candidate": "Waheed Asghar Dogar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 203,
+  "Constituency": "PP-203",
+  "Name": "Sahiwal-VI",
+  "Candidate": "Maj (Retd.) Ghulam Sarwar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 204,
+  "Constituency": "PP-204",
+  "Name": "Sahiwal-VII",
+  "Candidate": "Barrister Rai Muhammad Iqbal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 205,
+  "Constituency": "PP-205",
+  "Name": "Khanewal-I",
+  "Candidate": "Saeed Ahmad Sargana",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 206,
+  "Constituency": "PP-206",
+  "Name": "Khanewal-II",
+  "Candidate": "Syed Hasnain Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 207,
+  "Constituency": "PP-207",
+  "Name": "Khanewal-III",
+  "Candidate": "Pervaiz Akhtar Hussaini",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 208,
+  "Constituency": "PP-208",
+  "Name": "Khanewal-IV",
+  "Candidate": "Muhammad Yousaf  Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 209,
+  "Constituency": "PP-209",
+  "Name": "Khanewal-V",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 210,
+  "Constituency": "PP-210",
+  "Name": "Khanewal-VI",
+  "Candidate": "Khalid Javed Arrain",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 211,
+  "Constituency": "PP-211",
+  "Name": "Khanewal-VII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 212,
+  "Constituency": "PP-212",
+  "Name": "Khanewal-VIII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 213,
+  "Constituency": "PP-213",
+  "Name": "Multan-I",
+  "Candidate": "Khalid Javed Warraich",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 214,
+  "Constituency": "PP-214",
+  "Name": "Multan-II",
+  "Candidate": "Waseem Khan Badozai",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 215,
+  "Constituency": "PP-215",
+  "Name": "Multan-III",
+  "Candidate": "Moeen Ud Din Riaz Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 216,
+  "Constituency": "PP-216",
+  "Name": "Multan-IV",
+  "Candidate": "Malik Adnan Dogar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 217,
+  "Constituency": "PP-217",
+  "Name": "Multan-V",
+  "Candidate": "Nadeem Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 218,
+  "Constituency": "PP-218",
+  "Name": "Multan-VI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 219,
+  "Constituency": "PP-219",
+  "Name": "Multan-VII",
+  "Candidate": "Dalair Mahar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 220,
+  "Constituency": "PP-220",
+  "Name": "Multan-VIII",
+  "Candidate": "Zahid Behar Hashmi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 221,
+  "Constituency": "PP-221",
+  "Name": "Multan-IX",
+  "Candidate": "Mian Irfan Marral",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 222,
+  "Constituency": "PP-222",
+  "Name": "Multan-X",
+  "Candidate": "Ayaz Bodla Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 223,
+  "Constituency": "PP-223",
+  "Name": "Multan-XI",
+  "Candidate": "Rana Tufail Noon (Adv.)",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 224,
+  "Constituency": "PP-224",
+  "Name": "Multan-XII",
+  "Candidate": "Ayub Ghaloo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 225,
+  "Constituency": "PP-225",
+  "Name": "Lodhran-I",
+  "Candidate": "Shazia Hayat Ullah Tareen",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 226,
+  "Constituency": "PP-226",
+  "Name": "Lodhran-II",
+  "Candidate": "Nawab Razi Ullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 227,
+  "Constituency": "PP-227",
+  "Name": "Lodhran-III",
+  "Candidate": "Nawab Aman Ullah Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 228,
+  "Constituency": "PP-228",
+  "Name": "Lodhran-IV",
+  "Candidate": "Amir Iqbal Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 229,
+  "Constituency": "PP-229",
+  "Name": "Vehari-I",
+  "Candidate": "Dr. Arfa Nazeer Jutt",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 230,
+  "Constituency": "PP-230",
+  "Name": "Vehari-II",
+  "Candidate": "Salman Mehdi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 231,
+  "Constituency": "PP-231",
+  "Name": "Vehari-III",
+  "Candidate": "Khalid Nisar Dogar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 232,
+  "Constituency": "PP-232",
+  "Name": "Vehari-IV",
+  "Candidate": "Waheed Girewal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 233,
+  "Constituency": "PP-233",
+  "Name": "Vehari-V",
+  "Candidate": "Rai Zahoor Kharral",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 234,
+  "Constituency": "PP-234",
+  "Name": "Vehari-VI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 235,
+  "Constituency": "PP-235",
+  "Name": "Vehari-VII",
+  "Candidate": "Jahanzaid Khichi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 236,
+  "Constituency": "PP-236",
+  "Name": "Vehari-VIII",
+  "Candidate": "Ali Raza Khakwani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 237,
+  "Constituency": "PP-237",
+  "Name": "Bahawalnagar-I",
+  "Candidate": "Asif Bukhari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 238,
+  "Constituency": "PP-238",
+  "Name": "Bahawalnagar-II",
+  "Candidate": "Ch. Shahzad Rasheed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 239,
+  "Constituency": "PP-239",
+  "Name": "Bahawalnagar-III",
+  "Candidate": "Atif Matiyana",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 240,
+  "Constituency": "PP-240",
+  "Name": "Bahawalnagar-IV",
+  "Candidate": "Awais Asghar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 241,
+  "Constituency": "PP-241",
+  "Name": "Bahawalnagar-V",
+  "Candidate": "Ch. Azam",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 242,
+  "Constituency": "PP-242",
+  "Name": "Bahawalnagar-VI",
+  "Candidate": "Kashif Pansota",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 243,
+  "Constituency": "PP-243",
+  "Name": "Bahawalnagar-VII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 244,
+  "Constituency": "PP-244",
+  "Name": "Bahawalnagar-VIII",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 245,
+  "Constituency": "PP-245",
+  "Name": "Bahawalpur-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 246,
+  "Constituency": "PP-246",
+  "Name": "Bahawalpur-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 247,
+  "Constituency": "PP-247",
+  "Name": "Bahawalpur-III",
+  "Candidate": "Hakim Randhawa",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 248,
+  "Constituency": "PP-248",
+  "Name": "Bahawalpur-IV",
+  "Candidate": "Hassan Khurshid Warraich",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 249,
+  "Constituency": "PP-249",
+  "Name": "Bahawalpur-V",
+  "Candidate": "Jawad Ahmed Lodhi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 250,
+  "Constituency": "PP-250",
+  "Name": "Bahawalpur-VI",
+  "Candidate": "Jahanzaib Warran",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 251,
+  "Constituency": "PP-251",
+  "Name": "Bahawalpur-VII",
+  "Candidate": "Raes Abdul Qayyum",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 252,
+  "Constituency": "PP-252",
+  "Name": "Bahawalpur-VIII",
+  "Candidate": "Shafqat Shaheen",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 253,
+  "Constituency": "PP-253",
+  "Name": "Bahawalpur-IX",
+  "Candidate": "Asghar Joiya",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 254,
+  "Constituency": "PP-254",
+  "Name": "Bahawalpur-X",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 255,
+  "Constituency": "PP-255",
+  "Name": "Rahim Yar Khan-I",
+  "Candidate": "Raes Muhammad Iqbal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 256,
+  "Constituency": "PP-256",
+  "Name": "Rahim Yar Khan-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 257,
+  "Constituency": "PP-257",
+  "Name": "Rahim Yar Khan-III",
+  "Candidate": "Ch. Jahanzaib",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 258,
+  "Constituency": "PP-258",
+  "Name": "Rahim Yar Khan-IV",
+  "Candidate": "Ch. Ejaz Shafi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 259,
+  "Constituency": "PP-259",
+  "Name": "Rahim Yar Khan-V",
+  "Candidate": "Dr. Faisal Jameel",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 260,
+  "Constituency": "PP-260",
+  "Name": "Rahim Yar Khan-VI",
+  "Candidate": "Saima Tariq",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 261,
+  "Constituency": "PP-261",
+  "Name": "Rahim Yar Khan-VII",
+  "Candidate": "Jam Amanullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 262,
+  "Constituency": "PP-262",
+  "Name": "Rahim Yar Khan-VIII",
+  "Candidate": "Ch. Asif Majeed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 263,
+  "Constituency": "PP-263",
+  "Name": "Rahim Yar Khan-IX",
+  "Candidate": "Ch. Naeem Shafiq",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 264,
+  "Constituency": "PP-264",
+  "Name": "Rahim Yar Khan-X",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 265,
+  "Constituency": "PP-265",
+  "Name": "Rahim Yar Khan-XI",
+  "Candidate": "Sajjad Ahmed Warraich",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 266,
+  "Constituency": "PP-266",
+  "Name": "Rahim Yar Khan-XII",
+  "Candidate": "Ch. Sami Jutt",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 267,
+  "Constituency": "PP-267",
+  "Name": "Rahim Yar Khan-XIII",
+  "Candidate": "Raes Hamza",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 268,
+  "Constituency": "PP-268",
+  "Name": "Muzaffargarh-I",
+  "Candidate": "Jam Muhammad Younas",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 269,
+  "Constituency": "PP-269",
+  "Name": "Muzaffargarh-II",
+  "Candidate": "Rashid Nadeem Khulang",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 270,
+  "Constituency": "PP-270",
+  "Name": "Muzaffargarh-III",
+  "Candidate": "Ismail Bhutta",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 271,
+  "Constituency": "PP-271",
+  "Name": "Muzaffargarh-IV",
+  "Candidate": "Imran Dhanotar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 272,
+  "Constituency": "PP-272",
+  "Name": "Muzaffargarh-V",
+  "Candidate": "Rana Manan Sajid",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 273,
+  "Constituency": "PP-273",
+  "Name": "Muzaffargarh-VI",
+  "Candidate": "Dawood Khan Jatoi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 274,
+  "Constituency": "PP-274",
+  "Name": "Muzaffargarh-VII",
+  "Candidate": "Shahzad Rasool Bakhsh Jatoi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 275,
+  "Constituency": "PP-275",
+  "Name": "Muzaffargarh-VIII",
+  "Candidate": "Amna Shamsi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 276,
+  "Constituency": "PP-276",
+  "Name": "Kot Addu-I",
+  "Candidate": "Rana Aurangzaib Ashraf",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 277,
+  "Constituency": "PP-277",
+  "Name": "Kot Addu-II",
+  "Candidate": "Nadia Farooq Khar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 278,
+  "Constituency": "PP-278",
+  "Name": "Kot Addu-III",
+  "Candidate": "Ahsan Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 279,
+  "Constituency": "PP-279",
+  "Name": "Layyah-I",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 280,
+  "Constituency": "PP-280",
+  "Name": "Layyah-II",
+  "Candidate": "Sardar Shahab Ud Din Sehar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 281,
+  "Constituency": "PP-281",
+  "Name": "Layyah-III",
+  "Candidate": "Col. Malik Shohaib Ameer Awan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 282,
+  "Constituency": "PP-282",
+  "Name": "Layyah-IV",
+  "Candidate": "Usama Asghar Gujjar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 283,
+  "Constituency": "PP-283",
+  "Name": "Layyah-V",
+  "Candidate": "Ali Asghar Gurmani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 284,
+  "Constituency": "PP-284",
+  "Name": "Taunsa-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 285,
+  "Constituency": "PP-285",
+  "Name": "Taunsa-II",
+  "Candidate": "Khawaja Salah Ud Din",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 286,
+  "Constituency": "PP-286",
+  "Name": "D.G.Khan-I",
+  "Candidate": "Aftab Tangwani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 287,
+  "Constituency": "PP-287",
+  "Name": "D.G.Khan-II",
+  "Candidate": "Akhlaq Badani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 288,
+  "Constituency": "PP-288",
+  "Name": "D.G.Khan-III",
+  "Candidate": "Malik Iqbal Saqib Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 289,
+  "Constituency": "PP-289",
+  "Name": "D.G.Khan-IV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 290,
+  "Constituency": "PP-290",
+  "Name": "D.G.Khan-V",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 291,
+  "Constituency": "PP-291",
+  "Name": "D.G.Khan-VI",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 292,
+  "Constituency": "PP-292",
+  "Name": "Rajanpur-I",
+  "Candidate": "Ahmad Nawaz Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 293,
+  "Constituency": "PP-293",
+  "Name": "Rajanpur-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 294,
+  "Constituency": "PP-294",
+  "Name": "Rajanpur-III",
+  "Candidate": "Sardar Atif Ali Khan Dareshak",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 295,
+  "Constituency": "PP-295",
+  "Name": "Rajanpur-IV",
+  "Candidate": "Sardar Farooq Khan Dareshak",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 296,
+  "Constituency": "PP-296",
+  "Name": "Rajanpur-V",
+  "Candidate": "Sardar Awais Khan Dareshak",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 297,
+  "Constituency": "PP-297",
+  "Name": "Rajanpur-VI",
+  "Candidate": "Hamza Mazari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 1,
+  "Constituency": "PS-1",
+  "Name": "Jacobabad-l",
+  "Candidate": "Mir Rajar Jakhrani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 2,
+  "Constituency": "PS-2",
+  "Name": "Jacobabad-ll",
+  "Candidate": "Saddam Khoso",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 3,
+  "Constituency": "PS-3",
+  "Name": "Jacobabad-lll",
+  "Candidate": "Irfan Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 4,
+  "Constituency": "PS-4",
+  "Name": "Kashmore-l",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 5,
+  "Constituency": "PS-5",
+  "Name": "Kashmore-ll",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 6,
+  "Constituency": "PS-6",
+  "Name": "Kashmore-lll",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 7,
+  "Constituency": "PS-7",
+  "Name": "Shikarpur-l",
+  "Candidate": "Aftab Soomro Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 8,
+  "Constituency": "PS-8",
+  "Name": "Shikarpur-ll",
+  "Candidate": "Abdul Jabbar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 9,
+  "Constituency": "PS-9",
+  "Name": "Shikarpur-lll",
+  "Candidate": "Agha Imtiaz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 10,
+  "Constituency": "PS-10",
+  "Name": "Larkana-l",
+  "Candidate": "Samiullah Abro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 11,
+  "Constituency": "PS-11",
+  "Name": "Larkana-ll",
+  "Candidate": "Mah Jabeen Mughal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 12,
+  "Constituency": "PS-12",
+  "Name": "Larkana-lll",
+  "Candidate": "Murtaza Soomro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 13,
+  "Constituency": "PS-13",
+  "Name": "Larkana-lV",
+  "Candidate": "Khan Muhammad Sangro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 14,
+  "Constituency": "PS-14",
+  "Name": "Kamber Shahdadkot-l",
+  "Candidate": "Naheed Khawar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 15,
+  "Constituency": "PS-15",
+  "Name": "Kamber Shahdadkot-ll",
+  "Candidate": "Mubeen Magsi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 16,
+  "Constituency": "PS-16",
+  "Name": "Kamber Shahdadkiot-lll",
+  "Candidate": "Muhammad Ali Hakro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 17,
+  "Constituency": "PS-17",
+  "Name": "Kamber Shahdadkot-lV",
+  "Candidate": "Aqil Khan Chandio",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 18,
+  "Constituency": "PS-18",
+  "Name": "Ghotki-l",
+  "Candidate": "Ali Akbar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 19,
+  "Constituency": "PS-19",
+  "Name": "Ghotki-ll",
+  "Candidate": "Mujeeb ur Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 20,
+  "Constituency": "PS-20",
+  "Name": "Ghotki-lll",
+  "Candidate": "Abdul Sattar Gadani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 21,
+  "Constituency": "PS-21",
+  "Name": "Ghotki-lV",
+  "Candidate": "Dr. Ghulam Raza Channa",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 22,
+  "Constituency": "PS-22",
+  "Name": "Sukkur-l",
+  "Candidate": "Jadal Mangi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 23,
+  "Constituency": "PS-23",
+  "Name": "Sukkur-ll",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 24,
+  "Constituency": "PS-24",
+  "Name": "Sukkur-lll",
+  "Candidate": "Safia Baloch",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 25,
+  "Constituency": "PS-25",
+  "Name": "Sukkur-lV",
+  "Candidate": "Aziz Abro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 26,
+  "Constituency": "PS-26",
+  "Name": "Khairpur-l",
+  "Candidate": "Noor Hassan Chandio",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 27,
+  "Constituency": "PS-27",
+  "Name": "Khairpur-ll",
+  "Candidate": "Lala Fazal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 28,
+  "Constituency": "PS-28",
+  "Name": "Khairpur-lll",
+  "Candidate": "Adv. Ameer Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 29,
+  "Constituency": "PS-29",
+  "Name": "Khairpur-lV",
+  "Candidate": "Zameer Hussain Chang",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 30,
+  "Constituency": "PS-30",
+  "Name": "Khairpur-V",
+  "Candidate": "Ahmed Ali Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 31,
+  "Constituency": "PS-31",
+  "Name": "Khairpur-Vl",
+  "Candidate": "Fayyaz Hussain Abbasi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 32,
+  "Constituency": "PS-32",
+  "Name": "Naushahro Feroze-l",
+  "Candidate": "Abdul Wahab Kalhoro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 33,
+  "Constituency": "PS-33",
+  "Name": "Naushahro Feroze-ll",
+  "Candidate": "Rizwan Ahmad",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 34,
+  "Constituency": "PS-34",
+  "Name": "Naushahro Feroze-lll",
+  "Candidate": "Riaz Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 35,
+  "Constituency": "PS-35",
+  "Name": "Naushahro Feroze-lV",
+  "Candidate": "Muhammad Ramzan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 36,
+  "Constituency": "PS-36",
+  "Name": "Shaheed Benazirabad-l",
+  "Candidate": "Mir Bahawal Rind",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 37,
+  "Constituency": "PS-37",
+  "Name": "Shaheed Benazirabad-ll",
+  "Candidate": "Inayat Ali Rind",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 38,
+  "Constituency": "PS-38",
+  "Name": "Shaheed Benazirabad-lll",
+  "Candidate": "Nadeem Rajput",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 39,
+  "Constituency": "PS-39",
+  "Name": "Shaheed Benazirabad-lV",
+  "Candidate": "Abdul Latif",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 40,
+  "Constituency": "PS-40",
+  "Name": "Shanghar-l",
+  "Candidate": "Mushtaque",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 41,
+  "Constituency": "PS-41",
+  "Name": "Shanghar-ll",
+  "Candidate": "Muhammad Aslam",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 42,
+  "Constituency": "PS-42",
+  "Name": "Sanghar-lll",
+  "Candidate": "Ali Raza",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 43,
+  "Constituency": "PS-43",
+  "Name": "Sanghar-lV",
+  "Candidate": "Ayoub Khoso",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 44,
+  "Constituency": "PS-44",
+  "Name": "Sanghar-V",
+  "Candidate": "Muhammad Khashif Amin",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 45,
+  "Constituency": "PS-45",
+  "Name": "Mirpurkhas-l",
+  "Candidate": "Aftab Hussain Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 46,
+  "Constituency": "PS-46",
+  "Name": "Mirpurkhas-ll",
+  "Candidate": "Syed Mumtaz Ali Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 47,
+  "Constituency": "PS-47",
+  "Name": "Mirpurkhas-lll",
+  "Candidate": "Ali Raza",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 48,
+  "Constituency": "PS-48",
+  "Name": "Mirpurkhas-lV",
+  "Candidate": "Muhammad Iqbal",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 49,
+  "Constituency": "PS-49",
+  "Name": "Umerkot-l",
+  "Candidate": "Akbar Pali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 50,
+  "Constituency": "PS-50",
+  "Name": "Umerkot-ll",
+  "Candidate": "Lekhraj Malhi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 51,
+  "Constituency": "PS-51",
+  "Name": "Umerkot=lll",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 52,
+  "Constituency": "PS-52",
+  "Name": "Tharparkar-l",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 53,
+  "Constituency": "PS-53",
+  "Name": "Tharparkar-ll",
+  "Candidate": "Pehlaj",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 54,
+  "Constituency": "PS-54",
+  "Name": "Tharparkar-lll",
+  "Candidate": "Lajpat Rai",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 55,
+  "Constituency": "PS-55",
+  "Name": "Tharparkar-lV",
+  "Candidate": "Manji",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 56,
+  "Constituency": "PS-56",
+  "Name": "Matiari-l",
+  "Candidate": "Nargis",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 57,
+  "Constituency": "PS-57",
+  "Name": "Matiari-ll",
+  "Candidate": "Gulzar Hussain",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 58,
+  "Constituency": "PS-58",
+  "Name": "Tando Allahyar-l",
+  "Candidate": "Rashid Hussain Meo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 59,
+  "Constituency": "PS-59",
+  "Name": "Tando Allahyar-ll",
+  "Candidate": "Muhammad Aslam Laghari",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 60,
+  "Constituency": "PS-60",
+  "Name": "Hyderabad-l",
+  "Candidate": "Afroz Shoro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 61,
+  "Constituency": "PS-61",
+  "Name": "Hyderabad-ll",
+  "Candidate": "Anwar Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 62,
+  "Constituency": "PS-62",
+  "Name": "Hyderabad-llI",
+  "Candidate": "Lala Awais",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 63,
+  "Constituency": "PS-63",
+  "Name": "Hyderabad-lV",
+  "Candidate": "Rehan Rajput",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 64,
+  "Constituency": "PS-64",
+  "Name": "Hyderabad-V",
+  "Candidate": "Naeem Uddin",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 65,
+  "Constituency": "PS-65",
+  "Name": "Hyderabad-VI",
+  "Candidate": "Shoaib Shoukat",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 66,
+  "Constituency": "PS-66",
+  "Name": "Tando Muhammad Khan-I",
+  "Candidate": "Muhammad Altaf Nizamani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 67,
+  "Constituency": "PS-67",
+  "Name": "Tando Muhammad Khan-II",
+  "Candidate": "Abdul Rahim",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 68,
+  "Constituency": "PS-68",
+  "Name": "Badin-I",
+  "Candidate": "Atta Ur Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 69,
+  "Constituency": "PS-69",
+  "Name": "Badin-II",
+  "Candidate": "Nawab Abu Bakar Talpur",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 70,
+  "Constituency": "PS-70",
+  "Name": "Badin-III",
+  "Candidate": "Ali Akbar Lail",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 71,
+  "Constituency": "PS-71",
+  "Name": "Badin-IV",
+  "Candidate": "Ashfaque Ahmad",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 72,
+  "Constituency": "PS-72",
+  "Name": "Badin-V",
+  "Candidate": "Hassan Ali Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 73,
+  "Constituency": "PS-73",
+  "Name": "Sujawal-I",
+  "Candidate": "Deedar Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 74,
+  "Constituency": "PS-74",
+  "Name": "Sujawal-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 75,
+  "Constituency": "PS-75",
+  "Name": "Thattha-I",
+  "Candidate": "Syed Amjad Hussain Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 76,
+  "Constituency": "PS-76",
+  "Name": "Thattha-II",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 77,
+  "Constituency": "PS-77",
+  "Name": "Jamshoro-I",
+  "Candidate": "Muhammad Farooque",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 78,
+  "Constituency": "PS-78",
+  "Name": "Jamshoro-II",
+  "Candidate": "Zahid Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 79,
+  "Constituency": "PS-79",
+  "Name": "Jamshoro-III",
+  "Candidate": "Peer Murtaza Shah Jeelani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 80,
+  "Constituency": "PS-80",
+  "Name": "Dadu-I",
+  "Candidate": "Asghar Ali Shaikh",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 81,
+  "Constituency": "PS-81",
+  "Name": "Dadu-II",
+  "Candidate": "Majeed Khoso",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 82,
+  "Constituency": "PS-82",
+  "Name": "Dadu-III",
+  "Candidate": "Zulfiqar Mallah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 83,
+  "Constituency": "PS-83",
+  "Name": "Dadu-IV",
+  "Candidate": "Ali Anwar Panhwar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 84,
+  "Constituency": "PS-84",
+  "Name": "Malir-I",
+  "Candidate": "Zain Kolachi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 85,
+  "Constituency": "PS-85",
+  "Name": "Malir-II",
+  "Candidate": "Mehwish",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 86,
+  "Constituency": "PS-86",
+  "Name": "Malir-III",
+  "Candidate": "Hanif Bangash",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 87,
+  "Constituency": "PS-87",
+  "Name": "Malir-IV",
+  "Candidate": "Taus Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 88,
+  "Constituency": "PS-88",
+  "Name": "Malir-V",
+  "Candidate": "Aijaz Sawati",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 89,
+  "Constituency": "PS-89",
+  "Name": "Malir-VI",
+  "Candidate": "Muhammad Ashraf Samoo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 90,
+  "Constituency": "PS-90",
+  "Name": "Karachi Korangi-I",
+  "Candidate": "Waqas Niazi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 91,
+  "Constituency": "PS-91",
+  "Name": "Karachi Korangi-II",
+  "Candidate": "Abid Jeelani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 92,
+  "Constituency": "PS-92",
+  "Name": "Karachi Korangi-III",
+  "Candidate": "Wajid Hussain",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 93,
+  "Constituency": "PS-93",
+  "Name": "Karachi Korangi-IV",
+  "Candidate": "Sajid Meer",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 94,
+  "Constituency": "PS-94",
+  "Name": "Karachi Korangi-V",
+  "Candidate": "Abdul Qadeer",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 95,
+  "Constituency": "PS-95",
+  "Name": "Karachi Korangi-VI",
+  "Candidate": "Raja Azhar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 96,
+  "Constituency": "PS-96",
+  "Name": "Karachi Korangi-VII",
+  "Candidate": "Muhammad Awais",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 97,
+  "Constituency": "PS-97",
+  "Name": "Karachi East-I",
+  "Candidate": "Rehan Soomro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 98,
+  "Constituency": "PS-98",
+  "Name": "Karachi East-II",
+  "Candidate": "Jansher Junejo",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 99,
+  "Constituency": "PS-99",
+  "Name": "Karachi East-III",
+  "Candidate": "Zain Pervaiz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 100,
+  "Constituency": "PS-100",
+  "Name": "Karachi East-IV",
+  "Candidate": "Syed Muhammad Taha",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 101,
+  "Constituency": "PS-101",
+  "Name": "Karachi East-V",
+  "Candidate": "Barrister Ali Tahir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 102,
+  "Constituency": "PS-102",
+  "Name": "Karachi East-VI",
+  "Candidate": "Jamal Sidiqui",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 103,
+  "Constituency": "PS-103",
+  "Name": "Karachi East-VII",
+  "Candidate": "Mubashar Hassan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 104,
+  "Constituency": "PS-104",
+  "Name": "Karachi East-VIII",
+  "Candidate": "Amjad Jah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 105,
+  "Constituency": "PS-105",
+  "Name": "Karachi East-IX",
+  "Candidate": "Hanif Sawati",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 106,
+  "Constituency": "PS-106",
+  "Name": "Karachi South-I",
+  "Candidate": "Sajjad Soomro",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 107,
+  "Constituency": "PS-107",
+  "Name": "Karachi South-II",
+  "Candidate": "Khalid Roy",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 108,
+  "Constituency": "PS-108",
+  "Name": "Karachi South-III",
+  "Candidate": "Murad Shaikh",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 109,
+  "Constituency": "PS-109",
+  "Name": "Karachi South-IV",
+  "Candidate": "Adv. Ali Ahmad Palh",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 110,
+  "Constituency": "PS-110",
+  "Name": "Karachi South-V",
+  "Candidate": "Bilal Jadoon",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 111,
+  "Constituency": "PS-111",
+  "Name": "Karachi Keemari-I",
+  "Candidate": "Amjad Afridi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 112,
+  "Constituency": "PS-112",
+  "Name": "Karachi Keemari-II",
+  "Candidate": "Sarbuland Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 113,
+  "Constituency": "PS-113",
+  "Name": "Karachi Keemari-III",
+  "Candidate": "Ghulam Qadir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 114,
+  "Constituency": "PS-114",
+  "Name": "Karachi Keemari-IV",
+  "Candidate": "Shabeer Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 115,
+  "Constituency": "PS-115",
+  "Name": "Karachi Keemari-V",
+  "Candidate": "Shah Nawaz Jadoon",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 116,
+  "Constituency": "PS-116",
+  "Name": "Karachi West-I",
+  "Candidate": "Rabistan Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 117,
+  "Constituency": "PS-117",
+  "Name": "Karachi West-II",
+  "Candidate": "Tariq Hassan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 118,
+  "Constituency": "PS-118",
+  "Name": "Karachi West-III",
+  "Candidate": "Saleh Zada Hassan Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 119,
+  "Constituency": "PS-119",
+  "Name": "Karachi West-IV",
+  "Candidate": "Saeed Afridi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 120,
+  "Constituency": "PS-120",
+  "Name": "Karachi West-V",
+  "Candidate": "Shafiq Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 121,
+  "Constituency": "PS-121",
+  "Name": "Karachi West-VI",
+  "Candidate": "Dr. Shakeel",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 122,
+  "Constituency": "PS-122",
+  "Name": "Karachi Central-I",
+  "Candidate": "Farhan Ghouri",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 123,
+  "Constituency": "PS-123",
+  "Name": "Karachi Central-II",
+  "Candidate": "Naeem Adil Sheikh",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 124,
+  "Constituency": "PS-124",
+  "Name": "Karachi Central-III",
+  "Candidate": "Nisar Ahmad",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 125,
+  "Constituency": "PS-125",
+  "Name": "Karachi Central-IV",
+  "Candidate": "Fauzia Siddiqui",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 126,
+  "Constituency": "PS-126",
+  "Name": "Karachi Central-V",
+  "Candidate": "Rana Waseem",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 127,
+  "Constituency": "PS-127",
+  "Name": "Karachi Central-VI",
+  "Candidate": "Irfan Jeelani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 128,
+  "Constituency": "PS-128",
+  "Name": "Karachi Central-VII",
+  "Candidate": "Khurram Saeed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 129,
+  "Constituency": "PS-129",
+  "Name": "Karachi Central-VIII",
+  "Candidate": "Naveed Siddiqui",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 130,
+  "Constituency": "PS-130",
+  "Name": "Karachi Central-IX",
+  "Candidate": "Faisal Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 1,
+  "Constituency": "PK-1",
+  "Name": "Chitral Upper",
+  "Candidate": "Surraya Bibi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 2,
+  "Constituency": "PK-2",
+  "Name": "Chitral Lower",
+  "Candidate": "Fateh ul Mulk Ali Nasir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 3,
+  "Constituency": "PK-3",
+  "Name": "Swat-l",
+  "Candidate": "Mian Sharafat Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 4,
+  "Constituency": "PK-4",
+  "Name": "Swat-ll",
+  "Candidate": "Ali Shah Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 5,
+  "Constituency": "PK-5",
+  "Name": "Swat-lll",
+  "Candidate": "Akhtar Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 6,
+  "Constituency": "PK-6",
+  "Name": "Swat-lV",
+  "Candidate": "Fazal Hakeem Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 7,
+  "Constituency": "PK-7",
+  "Name": "Swat-V",
+  "Candidate": "Dr. Amjad Ali Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 8,
+  "Constituency": "PK-8",
+  "Name": "Swat-Vl",
+  "Candidate": "Hameed ur Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 9,
+  "Constituency": "PK-9",
+  "Name": "Swat-Vll",
+  "Candidate": "Sultan-e-Rum",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 10,
+  "Constituency": "PK-10",
+  "Name": "Swat-Vlll",
+  "Candidate": "Muhammad Naeem",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 11,
+  "Constituency": "PK-11",
+  "Name": "Upper Dir-l",
+  "Candidate": "Gul Ibrahim Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 12,
+  "Constituency": "PK-12",
+  "Name": "Upper Dir-ll",
+  "Candidate": "Muhammad Yamin",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 13,
+  "Constituency": "PK-13",
+  "Name": "Upper Dir-lll",
+  "Candidate": "Muhammad Anwar Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 14,
+  "Constituency": "PK-14",
+  "Name": "Lower Dir-l",
+  "Candidate": "Muhammad Azam Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 15,
+  "Constituency": "PK-15",
+  "Name": "Lower Dir-ll",
+  "Candidate": "Hamayun Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 16,
+  "Constituency": "PK-16",
+  "Name": "Lower Dir-lll",
+  "Candidate": "Shafi Ullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 17,
+  "Constituency": "PK-17",
+  "Name": "Lower Dir-lV",
+  "Candidate": "Ubair ur Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 18,
+  "Constituency": "PK-18",
+  "Name": "Lower Dir-V",
+  "Candidate": "Liaqat Ali Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 19,
+  "Constituency": "PK-19",
+  "Name": "Bajaur-l",
+  "Candidate": "Hamid ur Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 20,
+  "Constituency": "PK-20",
+  "Name": "Bajaur-ll",
+  "Candidate": "Anwar Zeb Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 21,
+  "Constituency": "PK-21",
+  "Name": "Bajaur-lll",
+  "Candidate": "Ajmal Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 22,
+  "Constituency": "PK-22",
+  "Name": "Bajaur-lV",
+  "Candidate": "Gul Dad Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 23,
+  "Constituency": "PK-23",
+  "Name": "Malakand-l",
+  "Candidate": "Shakeel Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 24,
+  "Constituency": "PK-24",
+  "Name": "Malakand-ll",
+  "Candidate": "Musawir Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 25,
+  "Constituency": "PK-25",
+  "Name": "Buner-l",
+  "Candidate": "Riaz Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 26,
+  "Constituency": "PK-26",
+  "Name": "Buner-ll",
+  "Candidate": "Syed Fakhar-e- Jehan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 27,
+  "Constituency": "PK-27",
+  "Name": "Buner-lll",
+  "Candidate": "Kabeer Khan Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 28,
+  "Constituency": "PK-28",
+  "Name": "Shangla-l",
+  "Candidate": "Shaukat Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 29,
+  "Constituency": "PK-29",
+  "Name": "Shangla-ll",
+  "Candidate": "Abdul Munim",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 30,
+  "Constituency": "PK-30",
+  "Name": "Shangla-lll",
+  "Candidate": "Sadar Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 31,
+  "Constituency": "PK-31",
+  "Name": "Kohistan Upper",
+  "Candidate": "TehminaFaheem",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 32,
+  "Constituency": "PK-32",
+  "Name": "Kohistan Lower",
+  "Candidate": "Kifayat Ullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 33,
+  "Constituency": "PK-33",
+  "Name": "Kolai Palas Kohistan",
+  "Candidate": "Momina Basit",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 34,
+  "Constituency": "PK-34",
+  "Name": "Battagram-l",
+  "Candidate": "Zubair Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 35,
+  "Constituency": "PK-35",
+  "Name": "Battagram-ll",
+  "Candidate": "Tajz Muhammad Tarand",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 36,
+  "Constituency": "PK-36",
+  "Name": "Mansehra-l",
+  "Candidate": "Munir Lughmani Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 37,
+  "Constituency": "PK-37",
+  "Name": "Mansehra-ll",
+  "Candidate": "Baber Saleem Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 38,
+  "Constituency": "PK-38",
+  "Name": "Mansehra-lll",
+  "Candidate": "Zahid Chanzeb",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 39,
+  "Constituency": "PK-39",
+  "Name": "Mansehra-lV",
+  "Candidate": "Ikram Ghazi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 40,
+  "Constituency": "PK-40",
+  "Name": "Mansehra-V",
+  "Candidate": "Abdul Shakoor Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 41,
+  "Constituency": "PK-41",
+  "Name": "Torghar",
+  "Candidate": "Shakeela Rabbani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 42,
+  "Constituency": "PK-42",
+  "Name": "Abbottabad-l",
+  "Candidate": "Nazir Ahmed Abbasi",
+  "Symbol": "Peacock"
+ },
+ {
+  "SerialNo": 43,
+  "Constituency": "PK-43",
+  "Name": "Abbottabad-ll",
+  "Candidate": "Rajab Ali Khan",
+  "Symbol": "Sickle"
+ },
+ {
+  "SerialNo": 44,
+  "Constituency": "PK-44",
+  "Name": "Abbottabad-lll",
+  "Candidate": "Iftikhar Khan Jadoon",
+  "Symbol": "Pressure Cooker"
+ },
+ {
+  "SerialNo": 45,
+  "Constituency": "PK-45",
+  "Name": "Abbottabad-lV",
+  "Candidate": "Mushtaq Ghani",
+  "Symbol": "Kettle"
+ },
+ {
+  "SerialNo": 46,
+  "Constituency": "PK-46",
+  "Name": "Haripur-l",
+  "Candidate": "Akbar Ayub Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 47,
+  "Constituency": "PK-47",
+  "Name": "Haripur-ll",
+  "Candidate": "Arshad Ayub Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 48,
+  "Constituency": "PK-48",
+  "Name": "Haripur-lll",
+  "Candidate": "Malik Adeel",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 49,
+  "Constituency": "PK-49",
+  "Name": "Swabi-l",
+  "Candidate": "Rangez Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 50,
+  "Constituency": "PK-50",
+  "Name": "Swabi-ll",
+  "Candidate": "Aqib Ullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 51,
+  "Constituency": "PK-51",
+  "Name": "Swabi-lll",
+  "Candidate": "Abdul Karim Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 52,
+  "Constituency": "PK-52",
+  "Name": "Swabi-lV",
+  "Candidate": "Faisal Khan Tarakai",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 53,
+  "Constituency": "PK-53",
+  "Name": "Swabi-V",
+  "Candidate": "Murtaza Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 54,
+  "Constituency": "PK-54",
+  "Name": "Mardan-l",
+  "Candidate": "Zarshad Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 55,
+  "Constituency": "PK-55",
+  "Name": "Mardan-ll",
+  "Candidate": "Tufail Anjum",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 56,
+  "Constituency": "PK-56",
+  "Name": "Mardan-lll",
+  "Candidate": "Amir Farzand",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 57,
+  "Constituency": "PK-57",
+  "Name": "Mardan-lV",
+  "Candidate": "Muhammad Zahir Shah",
+  "Symbol": "Unknown"
+ },s
+ {
+  "SerialNo": 58,
+  "Constituency": "PK-58",
+  "Name": "Mardan-V",
+  "Candidate": "Muhammad Abdul Salam",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 59,
+  "Constituency": "PK-59",
+  "Name": "Mardan-Vl",
+  "Candidate": "Tariq Mehmood Aryani",
+  "Symbol": "Wheelchair"
+ },
+ {
+  "SerialNo": 60,
+  "Constituency": "PK-60",
+  "Name": "Mardan-Vll",
+  "Candidate": "Iftikhar Ali Mashwani",
+  "Symbol": "Feather"
+ },
+ {
+  "SerialNo": 61,
+  "Constituency": "PK-61",
+  "Name": "Mardan-Vlll",
+  "Candidate": "Ehtisham Khan Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 62,
+  "Constituency": "PK-62",
+  "Name": "Charsadda-l",
+  "Candidate": "Khalid Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 63,
+  "Constituency": "PK-63",
+  "Name": "Charsadda-ll",
+  "Candidate": "Arshad Umerzai",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 64,
+  "Constituency": "PK-64",
+  "Name": "Charsadda-lll",
+  "Candidate": "Hamza Naseer Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 65,
+  "Constituency": "PK-65",
+  "Name": "Charsadda-lV",
+  "Candidate": "Fazal Shakoor",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 66,
+  "Constituency": "PK-66",
+  "Name": "Charsadda-V",
+  "Candidate": "Arif Ahmadzai",
+  "Symbol": "Clock"
+ },
+ {
+  "SerialNo": 67,
+  "Constituency": "PK-67",
+  "Name": "Mohmand-l",
+  "Candidate": "Mehboob Sher",
+  "Symbol": "Wicket"
+ },
+ {
+  "SerialNo": 68,
+  "Constituency": "PK-68",
+  "Name": "Mohmand-ll",
+  "Candidate": "Dr. Israr Safi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 69,
+  "Constituency": "PK-69",
+  "Name": "Khyber-l",
+  "Candidate": "Adnan Qadri",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 70,
+  "Constituency": "PK-70",
+  "Name": "Khyber-ll",
+  "Candidate": "Muhammad Sohail Afridi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 71,
+  "Constituency": "PK-71",
+  "Name": "Khyber-lll",
+  "Candidate": "Abdul Ghani Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 72,
+  "Constituency": "PK-72",
+  "Name": "Peshawar-l",
+  "Candidate": "Mehmood Jan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 73,
+  "Constituency": "PK-73",
+  "Name": "Peshawar-ll",
+  "Candidate": "Ali Zaman Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 74,
+  "Constituency": "PK-74",
+  "Name": "Peshawar-lll",
+  "Candidate": "Arbab Jahandad",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 75,
+  "Constituency": "PK-75",
+  "Name": "Peshawar-lV",
+  "Candidate": "Shahab Khan Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 76,
+  "Constituency": "PK-76",
+  "Name": "Peshawar-V",
+  "Candidate": "Sami Ullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 77,
+  "Constituency": "PK-77",
+  "Name": "Peshawar-Vl",
+  "Candidate": "Sher Ali Afridi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 78,
+  "Constituency": "PK-78",
+  "Name": "Peshawar-Vll",
+  "Candidate": "Arbab Asim",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 79,
+  "Constituency": "PK-79",
+  "Name": "Peshawar-Vlll",
+  "Candidate": "Taimour Jhagra",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 80,
+  "Constituency": "PK-80",
+  "Name": "Peshawar-lX",
+  "Candidate": "Hameed ul Haq",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 81,
+  "Constituency": "PK-81",
+  "Name": "Peshawar-X",
+  "Candidate": "Naureen Arif",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 82,
+  "Constituency": "PK-82",
+  "Name": "Peshawar-Xl",
+  "Candidate": "Kamran Bangash",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 83,
+  "Constituency": "PK-83",
+  "Name": "Peshawar-Xll",
+  "Candidate": "Meena Khan Afridi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 84,
+  "Constituency": "PK-84",
+  "Name": "Peshawar-Xlll",
+  "Candidate": "Fazal Elahi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 85,
+  "Constituency": "PK-85",
+  "Name": "Nowshera-l",
+  "Candidate": "Zar Alam Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 86,
+  "Constituency": "PK-86",
+  "Name": "Nowshera-ll",
+  "Candidate": "Idreas Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 87,
+  "Constituency": "PK-87",
+  "Name": "Nowshera-lll",
+  "Candidate": "Khalil ur Rehman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 88,
+  "Constituency": "PK-88",
+  "Name": "Nowshera-lV",
+  "Candidate": "Mian Umer Kakakhel",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 89,
+  "Constituency": "PK-89",
+  "Name": "Nowshera-V",
+  "Candidate": "Ishfaq Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 90,
+  "Constituency": "PK-90",
+  "Name": "Kohat-l",
+  "Candidate": "Aftab Alam Adv.",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 91,
+  "Constituency": "PK-91",
+  "Name": "Kohat-ll",
+  "Candidate": "Daud Afridi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 92,
+  "Constituency": "PK-92",
+  "Name": "Kohat-lll",
+  "Candidate": "Shafi Jan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 93,
+  "Constituency": "PK-93",
+  "Name": "Hangu",
+  "Candidate": "Shah Turab",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 94,
+  "Constituency": "PK-94",
+  "Name": "Orakzai",
+  "Candidate": "Auranbzeb Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 95,
+  "Constituency": "PK-95",
+  "Name": "Kurram-l",
+  "Candidate": "Imran Khan",
+  "Symbol": "Bowl"
+ },
+ {
+  "SerialNo": 96,
+  "Constituency": "PK-96",
+  "Name": "Kurram-ll",
+  "Candidate": "Syed Irshad Hussain",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 97,
+  "Constituency": "PK-97",
+  "Name": "Karak-l",
+  "Candidate": "Khurshid Khattak",
+  "Symbol": "Parachute"
+ },
+ {
+  "SerialNo": 98,
+  "Constituency": "PK-98",
+  "Name": "Karak-ll",
+  "Candidate": "Sajjad Barrakwal",
+  "Symbol": "Transformer"
+ },
+ {
+  "SerialNo": 99,
+  "Constituency": "PK-99",
+  "Name": "Bannu-l",
+  "Candidate": "Zahid Ullah",
+  "Symbol": "Peacock"
+ },
+ {
+  "SerialNo": 100,
+  "Constituency": "PK-100",
+  "Name": "Bannu-ll",
+  "Candidate": "Malik Pakhtoon Yar Khan",
+  "Symbol": "Dove"
+ },
+ {
+  "SerialNo": 101,
+  "Constituency": "PK-101",
+  "Name": "Bannu-lll",
+  "Candidate": "Malik Shah Muhammad Wazir",
+  "Symbol": "Bed"
+ },
+ {
+  "SerialNo": 102,
+  "Constituency": "PK-102",
+  "Name": "Bannu-lV",
+  "Candidate": "Malik Adnan Khan",
+  "Symbol": "Kettle"
+ },
+ {
+  "SerialNo": 103,
+  "Constituency": "PK-103",
+  "Name": "North Waziristan-l",
+  "Candidate": "Allama Iqbal Dawar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 104,
+  "Constituency": "PK-104",
+  "Name": "North Waziristan-ll",
+  "Candidate": "Naik Muhammad Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 105,
+  "Constituency": "PK-105",
+  "Name": "Lakki Marwat-l",
+  "Candidate": "Johar Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 106,
+  "Constituency": "PK-106",
+  "Name": "Lakki Marwat-ll",
+  "Candidate": "Noor Saleem Malik",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 107,
+  "Constituency": "PK-107",
+  "Name": "Lakki Marwat-lll",
+  "Candidate": "Tariq Saeed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 108,
+  "Constituency": "PK-108",
+  "Name": "Tank",
+  "Candidate": "Muhammad Usman",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 109,
+  "Constituency": "PK-109",
+  "Name": "South Waziristan Upper",
+  "Candidate": "Asif Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 110,
+  "Constituency": "PK-110",
+  "Name": "South Waziristan Lower",
+  "Candidate": "Ajjab Gul Wazir",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 111,
+  "Constituency": "PK-111",
+  "Name": "Dera Ismail Khan-l",
+  "Candidate": "Kamran Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 112,
+  "Constituency": "PK-112",
+  "Name": "Dera Ismail Khan-ll",
+  "Candidate": "Ali Amin Gandapur\/Faisal Amin\nGandapur",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 113,
+  "Constituency": "PK-113",
+  "Name": "Dera Ismail Khan-lll",
+  "Candidate": "Ali Amin Gandapur\/Faisal Amin\nGandapur",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 114,
+  "Constituency": "PK-114",
+  "Name": "Dera Ismail Khan-lV",
+  "Candidate": "Ismail Khan Baloch",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 115,
+  "Constituency": "PK-115",
+  "Name": "Dera Ismail Khan-V",
+  "Candidate": "Roshan Bibi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 1,
+  "Constituency": "PB-1",
+  "Name": "Sherani Cum Zhob",
+  "Candidate": "Gul Khan Qureshi",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 2,
+  "Constituency": "PB-2",
+  "Name": "Zhob",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 3,
+  "Constituency": "PB-3",
+  "Name": "Killa Saif Ullah",
+  "Candidate": "Haji Hayat Meerzai",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 4,
+  "Constituency": "PB-4",
+  "Name": "Musakhail Cum Barkhan",
+  "Candidate": "Muhammad Tariq",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 5,
+  "Constituency": "PB-5",
+  "Name": "Loralai",
+  "Candidate": "Abdul Hassan Nasar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 6,
+  "Constituency": "PB-6",
+  "Name": "Duki",
+  "Candidate": "Haji Ashraf Nasar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 7,
+  "Constituency": "PB-7",
+  "Name": "Ziarat Cum Harnai",
+  "Candidate": "Nawab Khan Dumar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 8,
+  "Constituency": "PB-8",
+  "Name": "Sibi",
+  "Candidate": "Zubaida Khatoon",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 9,
+  "Constituency": "PB-9",
+  "Name": "Kohlu",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 10,
+  "Constituency": "PB-10",
+  "Name": "Dera Bugti",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 11,
+  "Constituency": "PB-11",
+  "Name": "Jhall Magsi",
+  "Candidate": "Imdad Hussain",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 12,
+  "Constituency": "PB-12",
+  "Name": "Kachhi",
+  "Candidate": "Pir Bux Jamot",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 13,
+  "Constituency": "PB-13",
+  "Name": "Nasirabad-I",
+  "Candidate": "Abdul Razak",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 14,
+  "Constituency": "PB-14",
+  "Name": "Nasirabad-II",
+  "Candidate": "Qurban Ali",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 15,
+  "Constituency": "PB-15",
+  "Name": "Sohbat Pur",
+  "Candidate": "Dr. Pervez Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 16,
+  "Constituency": "PB-16",
+  "Name": "Jaffarabad",
+  "Candidate": "Naseeb Ullah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 17,
+  "Constituency": "PB-17",
+  "Name": "Usta Muhammad",
+  "Candidate": "Godha Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 18,
+  "Constituency": "PB-18",
+  "Name": "Khuzdar-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 19,
+  "Constituency": "PB-19",
+  "Name": "Khuzdar-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 20,
+  "Constituency": "PB-20",
+  "Name": "Khuzdar-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 21,
+  "Constituency": "PB-21",
+  "Name": "Hub",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 22,
+  "Constituency": "PB-22",
+  "Name": "Lasbela",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 23,
+  "Constituency": "PB-23",
+  "Name": "Awaran",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 24,
+  "Constituency": "PB-24",
+  "Name": "Gawadar",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 25,
+  "Constituency": "PB-25",
+  "Name": "Kech-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 26,
+  "Constituency": "PB-26",
+  "Name": "Kech-II",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 27,
+  "Constituency": "PB-27",
+  "Name": "Kech-III",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 28,
+  "Constituency": "PB-28",
+  "Name": "Kech-IV",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 29,
+  "Constituency": "PB-29",
+  "Name": "Panjgur-I",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 30,
+  "Constituency": "PB-30",
+  "Name": "Panjgur-II",
+  "Candidate": "Sardar Ali Akbar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 31,
+  "Constituency": "PB-31",
+  "Name": "Washuk",
+  "Candidate": "Hussain Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 32,
+  "Constituency": "PB-32",
+  "Name": "Chagai",
+  "Candidate": "Ali Ahmed",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 33,
+  "Constituency": "PB-33",
+  "Name": "Kharan",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 34,
+  "Constituency": "PB-34",
+  "Name": "Nushki",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 35,
+  "Constituency": "PB-35",
+  "Name": "Surab",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 36,
+  "Constituency": "PB-36",
+  "Name": "Kalat",
+  "Candidate": "Pending",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 37,
+  "Constituency": "PB-37",
+  "Name": "Mastung",
+  "Candidate": "Zulekha Aziz",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 38,
+  "Constituency": "PB-38",
+  "Name": "Quetta-I",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 39,
+  "Constituency": "PB-39",
+  "Name": "Quetta-II",
+  "Candidate": "Noor Muhammad",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 40,
+  "Constituency": "PB-40",
+  "Name": "Quetta-III",
+  "Candidate": "Dawood Shah",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 41,
+  "Constituency": "PB-41",
+  "Name": "Quetta-IV",
+  "Candidate": "Adv. Abdul Ghaffar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 42,
+  "Constituency": "PB-42",
+  "Name": "Quetta-V",
+  "Candidate": "Imran Hussain Hazara",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 43,
+  "Constituency": "PB-43",
+  "Name": "Quetta-VI",
+  "Candidate": "Sardar Doda Khan Shahwani",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 44,
+  "Constituency": "PB-44",
+  "Name": "Quetta-VII",
+  "Candidate": "Malik Faisal Dehwar",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 45,
+  "Constituency": "PB-45",
+  "Name": "Quetta-VIII",
+  "Candidate": "Liaqat Lehri",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 46,
+  "Constituency": "PB-46",
+  "Name": "Quetta-IX",
+  "Candidate": "PENDING",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 47,
+  "Constituency": "PB-47",
+  "Name": "Pishin-I",
+  "Candidate": "Zain ul Abideen Khan",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 48,
+  "Constituency": "PB-48",
+  "Name": "Pishin-II",
+  "Candidate": "Shahnawaz Khiral",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 49,
+  "Constituency": "PB-49",
+  "Name": "Pishin-III",
+  "Candidate": "Abdul Hayyi Agha",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 50,
+  "Constituency": "PB-50",
+  "Name": "Killa Abdullah",
+  "Candidate": "Zakir Khan Tareen",
+  "Symbol": "Unknown"
+ },
+ {
+  "SerialNo": 51,
+  "Constituency": "PB-51",
+  "Name": "Chaman",
+  "Candidate": "Jalal Saadi Achakzai",
+  "Symbol": "Unknown"
+ }
+]
